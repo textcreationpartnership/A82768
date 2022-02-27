@@ -1,0 +1,1121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The diurnall occurrences of every dayes proceeding in Parliament since the beginning thereof, being Tuesday the twentieth of Ianuary, which ended the tenth of March. Anno Dom. 1628. With the arguments of the members of the House then assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82768</idno>
+            <idno type="STC">Wing E1526</idno>
+            <idno type="STC">Thomason E178_12</idno>
+            <idno type="STC">ESTC R2426</idno>
+            <idno type="EEBO-CITATION">99872057</idno>
+            <idno type="PROQUEST">99872057</idno>
+            <idno type="VID">124478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E178[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The diurnall occurrences of every dayes proceeding in Parliament since the beginning thereof, being Tuesday the twentieth of Ianuary, which ended the tenth of March. Anno Dom. 1628. With the arguments of the members of the House then assembled.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[6], 77, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. H. and are to be sold by William Cooke, at Furnivals Inne Gate in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:124478:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:124478:1" rendition="simple:additions"/>
+            <p>THE DIURNALL OCCVRRENCES of every dayes proceeding in PAR<g ref="char:EOLhyphen"/>LIAMENT ſince the beginning thereof, being Tueſday the twentieth of <hi>Ianuary,</hi> which ended the tenth of <hi>March. Anno Dom.</hi> 1628.</p>
+            <p>With the Arguments of the Mem<g ref="char:EOLhyphen"/>bers of the Houſe then aſſembled.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. H.</hi> and are to be ſold by <hi>William Cooke,</hi> at <hi>Furnivals Inne</hi> Gate in <hi>Holborn.</hi> Anno Dom. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:124478:2"/>
+            <pb n="1" facs="tcp:124478:2"/>
+            <head>A TRVE RELATION of every dayes proceeding in PARLIAMENT, ſince the be<g ref="char:EOLhyphen"/>ginning thereof, being Tueſday the 20. of <hi>Ianuary: An. Dom.</hi> 1628.</head>
+            <div type="days_proceedings">
+               <p>
+                  <seg rend="decorInit">V</seg>Pon the ſaid twentieth day of <hi>Ianuary</hi> being the firſt day of the Parliament nothing was done, but onely the ſet<g ref="char:EOLhyphen"/>ling of the Committees.</p>
+               <p>Upon Wedneſday the 21. of <hi>Ianua<g ref="char:EOLhyphen"/>ry,</hi> It was ordered that M. <hi>Selden</hi> and others ſhould ſee if the Petition of Right, and his Majeſties Anſwer thereto were enrolled in the Parliament Rolles, and the Courts of Weſtminſter, as his Majeſtie ſent them word the laſt Seſſion they ſhould be, and alſo in what manner they were entred, which was done accordingly.</p>
+               <p>M. <hi>Selden</hi> reported to the Houſe that his Majeſties Speech made the laſt day of the Parliament, in the upper Houſe, is alſo entred by his Majeſties command.</p>
+               <p>M. <hi>Pymme</hi> moved that the debate thereof ſhould be deferred untill Tueſday next, by reaſon of the fewneſſe of the Houſe, and the liberty of the Kingdome.</p>
+               <p>Sir <hi>Iohn Elliot,</hi> It is true it deſerves to be deferred un<g ref="char:EOLhyphen"/>till there be a fuller Houſe; But it is good to prepare
+<pb n="2" facs="tcp:124478:3"/>things; I find it is a great point; I deſire a ſelect Commit<g ref="char:EOLhyphen"/>tee may conſider thereof, and alſo how other liberties of the Kingdome be invaded: I finde in the Countrey the Petition printed indeed, but with an Anſwer that never gave ſatisfaction; I deſire a Committee may conſider thereof, and preſent it to the Houſe by what warrant it was printed; which was ordered.</p>
+               <p>M. <hi>Selden,</hi> In this Petition of Right it is knowne, how lately it hath beene violated, ſince our laſt meeting, the liberties for Leaſe-perſon and Free-hold, how have they beene invaded? have not ſome beene Committees? and contrary to that: Now we knowing this Invaſion, muſt take notice of it; We know of an order made in the Ex<g ref="char:EOLhyphen"/>chequer, That a Sheriffe was commanded not to execute a <hi>Replevin;</hi> and mens goods are taken away and muſt not be reſtored; And alſo no man ought to looſe life or limbe, but by the Law: And hath not one lately loſt his Eares (meaning <hi>Savage</hi>) that was cenſured in the Starre-chamber, by an Arbitrable Judgement and ſentence? Next they will take away our Armes, and ſo our Lives; Let all ſee we are ſenſible of theſe cuſtomes which creepe on us; Let us make a juſt preſentation hereof to his Ma<g ref="char:EOLhyphen"/>jeſtie.</p>
+               <sp>
+                  <speaker>Norton at Barre,</speaker>
+                  <p>
+                     <hi>Norton</hi> the Kings Printer was called to the Barre, and asked by what warrant the Additions to the Petition were printed; He ſaid, there was a Warrant (as hee thought) from the King himſelfe; And being asked whe<g ref="char:EOLhyphen"/>ther there were not ſome Coppies printed without Ad<g ref="char:EOLhyphen"/>ditions, He ſaid there were ſome, but they were ſuppreſ<g ref="char:EOLhyphen"/>ſed by ſome Warrants.</p>
+               </sp>
+               <p>Sir <hi>Iohn Elliott</hi> deſired a clearer ſatisfaction might be made; and that he might anſwer directly by what War<g ref="char:EOLhyphen"/>rant: whereupon he was called in againe, and ſaid he did not remember the particular, but ſure there was a Warrant.</p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="3" facs="tcp:124478:3"/>
+               <head>
+                  <hi>Thurſday the</hi> 22. <hi>of Ianuary.</hi>
+               </head>
+               <p>One M. <hi>Rolles</hi> a Merchant and a member of the Houſe informed the Houſe, that his goods were ſeized by the Cuſtomers, for refuſing to pay the cuſtome by them de<g ref="char:EOLhyphen"/>manded, although he told them what was adjudged to be done by Law, he would pay: Whereupon Sir <hi>Robert Phillippes</hi> ſpake as followeth,</p>
+               <p>Sir <hi>Robert Phillippes:</hi> By this information you ſee the unfortunateneſſe of theſe times; and how full time it was for this Aſſembly to meet, to ſecure his Majeſtie, and to preſerve our ſelves: And I am confident we came hither with fulneſſe of both, and all ſhall conduce to a happie concluſion, and to the Kings honour, and to our owne; Great and weighty things wound deepe: Caſt your eyes which way you pleaſe, you ſhall ſee violations on all ſides. Looke on the liberty of the Subject: Looke on the priviledge of this Houſe: Let any ſay, if he ever ſaw or read the like violations by inferiour Miniſters that over-doe their commaunds. They know the party was a Parliament man; Nay, they ſaid, if all the Parliament was in you, this we would doe and juſtifie. If we ſuffer the liberty of this Houſe to wither, out of feare or com<g ref="char:EOLhyphen"/>plaint; we give a wound to the happineſſe of this King<g ref="char:EOLhyphen"/>dome: Here the courſe of Juſtice was intercepted. An Order in the Exchequer was made for a ſtay of the goods, ſince there is ſeizure upon the approach of Par<g ref="char:EOLhyphen"/>liament of goods amounting to 5000<abbr>l.</abbr> for a pretended duty of 200 <abbr>l.</abbr> In the firſt of King <hi>Iames,</hi> by reaſon of the ſickeneſſe that then was, the Parliament was prorogued, and then was ſome boldneſſe to take this Tonnage and Poundage; and then we queſtioned the men that de<g ref="char:EOLhyphen"/>maunded Tonnage and Poundage, for there was no right to demaund it: Let us proceed with affection of duty to make up breaches; Let a Committee proceed of theſe
+<pb n="4" facs="tcp:124478:4"/>proceeding: Here M. <hi>Littleton</hi> made a Speech to ſecond him.</p>
+               <p>M. <hi>Littleton,</hi> We have had good admonitions, and we have followed them; We have Moderation preached unto us in Parliament, and we have followed it; I would others did the like out of Parliament: Let the parties be ſent for, that violated the Liberties of Parliament to have their Doome. This Speech was occaſioned by Secreta<g ref="char:EOLhyphen"/>rie <hi>Cooke,</hi> who in his Speech deſired that Moderation ſhould be uſed.</p>
+               <p>Sir <hi>Iohn Elliott,</hi> I ſee by this Relation what cauſe we have to be tender of the Libertie of the Subject, and this Houſe; and yet withall to retein the Moderation, as to give ſatisfaction to the world, that our heart is fixed to ſerve his Majeſtie, and to free us from offer of jealouſie; Three things are involved in this complaint:
+<list>
+                     <item>1. The Right of a particular Gentleman.</item>
+                     <item>2. The Right of the Subject.</item>
+                     <item>3. The Right and Priviledge of this Houſe.</item>
+                  </list> Let the Committee conſider of the two former; but for the violation of this Houſe, let us not be leſſer then our forefathers: Was ever the information of a member committed to a Committee? Let us ſend for the parties: Is there here a bare denyall of the Reſtitution of the goods? Was it not alſo ſaid, that if all the Parliament were comeined in him, they would doe as they did? Let them be ſent for.</p>
+               <p>It was ordered that the Officers of the Cuſtome-Houſe ſhould be ſent for.</p>
+               <p>M. <hi>Selden</hi> reported from the Committee concerning the printing of the Petition of Right, That there were 5000 Coppies printed without any Additions at all, which were publiſhed in the time of the laſt Parliament; but ſince the Parliament other Coppies have beene prin<g ref="char:EOLhyphen"/>ted with the Additions, and theſe ſuppreſſed and made waſte papers, which the Printer did as he ſaid by com<g ref="char:EOLhyphen"/>maund
+<pb n="5" facs="tcp:124478:4"/>from M. Atturney, which he received from his Majeſtie: And the Printer further ſaid, that M. Attorney was with the Lord Privie Seale at Whitehall, and there delivered to the Printer divers papers with divers hands to them; and on the back ſide was endorſed theſe words, We will and command you, that theſe Coppies be prin<g ref="char:EOLhyphen"/>ted.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday the</hi> 23. <hi>of Ianuary.</hi>
+               </head>
+               <p>His Majeſtie ſent the Houſe a meſſage to this effect, That he willed them to ceaſe from further debate of Ton<g ref="char:EOLhyphen"/>nage and Poundage till the next day in the afternoone, and that he would ſpeake with them in the Banquetting Houſe at White Hall.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Saterday the</hi> 24. <hi>of Ianuary.</hi>
+               </head>
+               <head type="sub">The Kings Speech.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>The care I have to remove all obſtacles that may hin<g ref="char:EOLhyphen"/>der the correſpondencie betwixt me and this Parliament, is the cauſe that I have called you hither at this time; the particular occaſion being a complaint made in the Lower Houſe. And as for you my Lords, I am glad to take this and all other occaſions, whereby you may clearely under<g ref="char:EOLhyphen"/>ſtand both my words and actions; For as you are nearer in degree, ſo you are the fitteſt witneſſes for Kings. The complaint I ſpeake of is for ſtaying mens goods, that de<g ref="char:EOLhyphen"/>nied Tonnage and Poundage, this may have an eaſie and ſhort concluſion, (if my words and actions be rightly underſtood); for by paſſing of the Bill as my Anceſtors have had it, my paſt Actions will be included, and my fu<g ref="char:EOLhyphen"/>ture authorized; which certaintie would not have beene ſtruck at, if men had not imagined that I have taken theſe
+<pb n="6" facs="tcp:124478:5"/>duties as appertaining to my Hereditary Prerogative, in which they are much deceived; For it ever was, and ſtill is my meaning by the guift of my people to enjoy it: And my intention of my Speech at the ending of the Seſſion concerning this point, was not to challenge Tonnage and Poundage as of right, but <hi>De bene eſſe,</hi> ſhewing you the neceſſitie, not the right, by which I was to take it, untill you had granted it unto me; aſſuring my ſelfe according to your generall profeſſions, that you wanted time, not will to give it me: Wherefore now having opportunitie, I expect that without loſſe of time, ye make good your profeſſions; and by paſſing of the Bill, to give an end to all the Queſtions ariſing from this ſubject, eſpecially ſince I have cleared the onely ſcruple that can trouble you in the buſineſſe.</p>
+               <p>To conclude, let us not be jealous of one anothers acti<g ref="char:EOLhyphen"/>ons; for if I had beene eaſily moved at every occaſion, the Order made on Wedneſday laſt might have made me ſtartle, there being ſome ſhew to ſuſpect that you had gi<g ref="char:EOLhyphen"/>ven your ſelves the liberty to be inquirers after Com<g ref="char:EOLhyphen"/>plaints, (the words of your Order being ſome what largely penned;) but looking into your actions, I finde you are onely complainers, not ſeeking complaints, for I am cer<g ref="char:EOLhyphen"/>taine you neither pretend nor deſire the liberty to be In<g ref="char:EOLhyphen"/>quiſitors of mens Actions, before particular complaints be made.</p>
+               <p>This I have ſpoken, to ſhew you how ſlow I am to be<g ref="char:EOLhyphen"/>leeve harſhly of your proceedings; likewiſe I aſſure you, that the Houſes reſolutions, not particular mens Speeches ſhall make me judge well or ill, not doubting but accor<g ref="char:EOLhyphen"/>ding to my example you will be deafe to ill reports con<g ref="char:EOLhyphen"/>cerning me, till my words and actions ſpeake for them<g ref="char:EOLhyphen"/>ſelves: That this Seſſion beginning with confidence one towards another, may end with a perfect good under<g ref="char:EOLhyphen"/>ſtanding betweene us, which God grant.</p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="7" facs="tcp:124478:5"/>
+               <head>
+                  <hi>Monday the</hi> 26. <hi>of Ianuary.</hi>
+               </head>
+               <p>M. <hi>Walter</hi> did informe the Houſe that there were di<g ref="char:EOLhyphen"/>vers Shippes laden with Corne for <hi>Spaine;</hi> Hereupon a Committee was appointed to enquire about the Trading into <hi>Spaine,</hi> and other enemies; and tranſporting Corne, and other Munition thither.</p>
+               <p>It is alſo ordered, that ſome of the Privie Councell ſhould preſently move the King about the ſtay of the Shippes.</p>
+               <p>Then after M. Secretarie <hi>Cooke</hi> moved that the Bill of Tonnage and Poundage might be read, and after ſome debate it was diverted, and they fell upon point of Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <sp>
+                  <speaker>M. <hi>Rowſe concerning Religion.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Maſter Speaker,</hi>
+                  </p>
+                  <p>We have of late entred into the conſideration of the Petition of Right, and the violation of it; and upon good reaſons, for it concernes Goods, Liberties and Lawes, but there is Right of a higher nature, that preſerves for us farre greater things; eternall life, our ſelves, yea our God himſelfe: Right of Religion, derived to us from King of Kings, conferred upon us by the King of this Kingdome, enacted by Lawes in this place, ſtreaming downe upon us in the bloud of Martyrs, that witneſſes from Heaven by miracles, even miraculous Deliverances: And this Right in the name of this Nation, I this day claime and deſire, that there may be a deepe and ſerious conſideration of the violations of it; I deſire firſt, that it may be conſide<g ref="char:EOLhyphen"/>red, what new paintings are laid upon the old face of the Whore of <hi>Babylon,</hi> to make her more lovely, and to draw ſo many Suitors unto her; I deſire that it may be conſide<g ref="char:EOLhyphen"/>red how the See of <hi>Rome</hi> doth eate into our Religion,
+<pb n="8" facs="tcp:124478:6"/>and fret into the Walles and Bankes of the Lawes and Statutes of this Realme, eſpecially ſince thoſe Lawes have beene made in a manner by themſelves, and by their owne treaſons and bloudy deſignes. And ſince their Po<g ref="char:EOLhyphen"/>pery is a confuſed maſſe of errours, caſting downe Kings before Popes; the precepts of God, before the traditions of men; living and reaſonable men before dead and ſenceleſſe ſtockes and ſtones: I deſire that we conſider the increaſe of Arminianiſme, an errour that makes the grace of God lacquey it after the will of man, that makes the ſheep to keepe the Shepheard, and makes a Mortall ſeed an Immortall God; I deſire we may looke into the very belly and bowels of this Trojane Horſe, to ſee if there be not men in it, ready to open the gate of <hi>Romiſh</hi> Tyranny and <hi>Spaniſh</hi> Monarchy; for an Arminian is the ſpawne of a Papiſt: and if there come the warmth of fa<g ref="char:EOLhyphen"/>vour upon him, you ſhall ſee him turne to one of thoſe Frogges that riſe out of the bottomleſſe pit. And if you marke it well, you ſhall ſee an Arminian reaching out his hand to a Papiſt; a Papiſt to a Jeſuite; a Jeſuite gives one hand to the Pope, and another to the King of Spaine; and theſe men having kindled a flame in our neighbour Countrey, have brought over ſome of it hither, to ſet on flame this Kingdome alſo: Yea, let us further ſearch and conſider whether theſe be not the men that breake upon the Goods and Liberties of this Common-wealth; for by this meanes they make way for the taking away of our Religion. It was an old tricke of the Devill, when he meant to take away <hi>Iobs</hi> Religion; he began at his goods. Lay thine hand on all, and he will curſe thee to thy face; either they think thereby to ſet a diſtaſte between Prince and people, or to finde ſome other way of ſupply to avoid or breake Parliaments, that ſo they may breake in upon our Religion, and bring in their owne errors: But let us doe as <hi>Iob</hi> did, he held faſt his Religion, and then his goods came againe with advantage; and if we hold faſt
+<pb n="9" facs="tcp:124478:6"/>God and his Religion, theſe things ſhall be added unto us: Let us conſider the times paſt, how they flouriſhed in honour and abundance, when Religion flouriſhed a<g ref="char:EOLhyphen"/>mongſt us; but as Religion decayed, ſo the honour and ſtrength of this Kingdome decayed. When the ſoule of a Common-wealth is dead, the body cannot long over-live it. If a man meet a Dogge alone, the Dogge is fearefull, though never ſo fierce by nature; but if the Dogge have his Maſter by him, he will ſet upon that man from whom he fled before: This ſhewes the lower natures being backt by higher encreaſe in courage and ſtrength; and certainly man being backt with omnipotence, is a kinde of omnipotent thing. All things are poſſible to him that beleeveth, and where all things are poſſible, there is a kinde of omnipotence; wherefore let us now with an unanimous conſent of us all, reſolve to make a vow and covenant henceforth to hold faſt our God and our Reli<g ref="char:EOLhyphen"/>gion, and we ſhall from henceforth certainly expect pro<g ref="char:EOLhyphen"/>ſperity unto this Kingdome and Nation, and to this cove<g ref="char:EOLhyphen"/>nant let every one ſay, Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Francis Seymor.</speaker>
+                  <p>If Religion be not a rule to all our actions, what policie can we have? if God fights not our battels, the helpe of man is in vaine; In our defects the cauſe thereof is our defect in Religion, and the ſinne thereof is Idolatrie and Popery: Papiſts encreaſe more now then ever, neither doe they want their Prieſts and Maſſes. Nay, his Maje<g ref="char:EOLhyphen"/>ſties name is uſed to ſtop proceedings againſt Papiſts, and that ſince the Parliament, contrary to his Majeſties good<g ref="char:EOLhyphen"/>neſſe and publique profeſſion; and contrary to his many Proclamations and many Inſtructions to the Judges; and whatſoever is done in the Country, is undone above.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="tcp:124478:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:124478:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:124478:8"/>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Maſter Speaker,</hi>
+                  </p>
+                  <p>This buſineſſe that we have in hand concerning our Religion, is of dangerous conſequence, if it bee not throughly looked into; I thinke that no man that ſits here but is ſenſible in what danger now it ſtands, if this Ho<g ref="char:EOLhyphen"/>nourable Houſe doe not finde ſome ſpeedy remedy for it.</p>
+                  <p>It was apparant to every man, that new opinions are brought in by ſome of our Churchmen to diſturbe our peace, and the meaning of theſe Churchmen can be no other, then to bring in the Romiſh Religion amongſt us; for it hath ever beene Jeſuiticall policie, firſt to worke a diſturbance, then afterward a change; we muſt ſeeke the cauſe: I ſhall briefely ſpeake my opinion, that is, that this proceedeth from the ambition of the Clergie, that are neare his Majeſtie; for it is well knowne, that at firſt the Church of <hi>Rome,</hi> and that we profeſſe were all one; and that the ambition of the Clergie begot and brought in all theſe differences that are now betwixt us: The higheſt dignitie they can here attaine unto, is but an Archbiſhop<g ref="char:EOLhyphen"/>ricke; but a Cardinals Cap is not here to be had: I be<g ref="char:EOLhyphen"/>leeve ſome of them affect that too well, and in ſome we ſee the effects, how they change their opinions for ad<g ref="char:EOLhyphen"/>vancement; and then they will turne white into blacke, and blacke into white.</p>
+                  <p>This being ſo, our endeavour muſt be to take away the roote, and then the branches will decay themſelves; It is not the calling of the Appeale to <hi>Caeſar</hi> will doe it; for if they can get Biſhopricks for writing ſuch books, we ſhall have many men that will write bookes in that kinde: It behoves us all, every man according to his ability, to im<g ref="char:EOLhyphen"/>ploy himſelfe for the ſearch of theſe things; and that we may finde out the matter and the men, that we may pre<g ref="char:EOLhyphen"/>ſent them and the danger that this Kingdome ſtands in
+<pb n="11" facs="tcp:124478:8"/>by them to his Majeſtie: And for mine owne part, as God ſhall enable me, I will doe my beſt herein.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Sherland.</hi>
+                  </speaker>
+                  <p>We have a Religion that is worth the loving with all our hearts; it was ſetled by the bloud of Martyrs, and kept by Miracles. To have our noſes wiped of this, would grieve my heart, to ſee more, to behold our Religion goe away, and deſignes daily made on it; and Arminianiſme ſtill to encreaſe as it doth, I admire: I perſwade my ſelfe the greater part of the Clergy, Nobility, and Gentry are firme; but it is the deſires of ſome few that labour to bring in a new faction of their owne, and ſo they drop into the eares of his Majeſtie, That thoſe that oppoſe them oppoſe his Majeſtie, and ſo they put him upon de<g ref="char:EOLhyphen"/>ſignes, that ſtand not with publique liberty: That he commands what he liſts, with Lives, Goods, and Religi<g ref="char:EOLhyphen"/>on; and doth as he pleaſeth: And ſo they involve all true hearted Engliſhmen and Chriſtians, under the name of Religious Puritans, and ſo involve his Majeſties quarrels to be theirs, which is Treaſon of the higheſt qualitie.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Tueſday the</hi> 27. <hi>of Ianuary.</hi>
+               </head>
+               <p>A Petition was exhibited againſt one <hi>Lewis,</hi> that ſaid that about the 25. of <hi>December,</hi> The Devill take the Par<g ref="char:EOLhyphen"/>liament, which was avowed by two witneſſes; and though it was ſpoken our of Parliament, yet it was reſol<g ref="char:EOLhyphen"/>ved to be an offence to the Parliament, and it was ordered that he ſhould be ſent for.</p>
+               <p>Sir <hi>Nathaniel Rich</hi> tendred a Petition concerning the Faſt, which was agreed to be preferred to the King as followeth. It was ordered that conference ſhould be do<g ref="char:EOLhyphen"/>ſired with the Lords about this Petition, who deſired to joyne with the Commons.</p>
+               <pb n="12" facs="tcp:124478:9"/>
+               <p> The King ſent a meſſage by Secretary <hi>Cooke</hi> to this effect; <hi>viz.</hi> His Majeſtie underſtanding that the Remon<g ref="char:EOLhyphen"/>ſtrance was called, for to take away all queſition, com<g ref="char:EOLhyphen"/>manded me to deliver it to you; but hoping you proceed with the Bill of Tonnage and Poundage, and give pre<g ref="char:EOLhyphen"/>cedencie to that buſineſſe, and to give an end to further diſpute betweene ſome of his Subjects, or elſe he ſhall thinke his Speech, which was with good applauſe accep<g ref="char:EOLhyphen"/>ted, had not that good effect that he expected: But be<g ref="char:EOLhyphen"/>fore the meſſage, a report was made by M. <hi>Pymme</hi> from the Committee of Religion, where a motion was made about the Remonſtrance laſt Seſſion, concerning that part which concerneth Religion; and the Clerke anſwe<g ref="char:EOLhyphen"/>red, that by command from the King he delivered it to the Lord Privie Seale, and ſo the Committee proceeded no farther.</p>
+               <p>Sir <hi>Walter Earle</hi> replyed to the meſſage: the laſt part of the meſſage calls me up for point of Precedencie; Reli<g ref="char:EOLhyphen"/>gion challengeth Precedencie and Right of our beſt en<g ref="char:EOLhyphen"/>deavours; <hi>Vbi dolor, ibi digitus.</hi> I know Juſtice and Liber<g ref="char:EOLhyphen"/>ty is Gods cauſe, but what good will Juſtice and Liberty doe, if Popery and Arminianiſme joyne hand in hand to<g ref="char:EOLhyphen"/>gether, to bring in Spaniſh Tyranny, under which thoſe Lawes and Liberties muſt ceaſe? what hath beene done for Religion ſince the laſt Seſſion, we know; what De<g ref="char:EOLhyphen"/>clarations have beene made, what Perſons advanced, what Truths confirmed, by all authority of Church, Coun<g ref="char:EOLhyphen"/>cels, and Kings: for my part, I will foregoe my life, eſtate and liberty, rather then my Religion; and I dare boldly affirme, That never was more corruption then is at this time. <hi>Humana Conſilia caſtigantur, ubi caeleſtibus ſe praefe<g ref="char:EOLhyphen"/>runt;</hi> Let us hold our ſelves to this methode, and that God that carried us out of ſo many difficulties the laſt Seſ<g ref="char:EOLhyphen"/>ſion, will not be wanting to us now.</p>
+               <sp>
+                  <pb n="13" facs="tcp:124478:9"/>
+                  <speaker>M. <hi>Coriton.</hi>
+                  </speaker>
+                  <p>Let us not doe Gods worke negligently: We receive his Majeſties meſſages with all duty; for our proceedings, let us ſo proceed, as it may ſoone conduct us to his Maje<g ref="char:EOLhyphen"/>ſties deſire: Religion concernes the King aſwell as us: The unitie of this Houſe is ſweet, eſpecially in Gods cauſe. Let us cry, and cry againe for this; Let us be reſol<g ref="char:EOLhyphen"/>ved into a Committee, and preſently to debate hereof.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Pymme.</hi>
+                  </speaker>
+                  <p>There are two diſeaſes; the one old, the other new; the old, Popery; the new, Arminianiſme. There are three things to be enquired after concerning Popery:</p>
+                  <p>Firſt,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> of the ceſſation of the execution of Lawes againſt Popery.</p>
+                  <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> how the Papiſts have beene imployed and countenanced.</p>
+                  <p>Thirdly,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> the Law bringing of ſuperſtitious Ceremo<g ref="char:EOLhyphen"/>nies amongſt us.</p>
+                  <p>For Arminians, be adviſed;</p>
+                  <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> that a way be opened for the truth.</p>
+                  <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> that by the Articles ſet forth 1502 and by the Catechiſme in King <hi>Edward</hi> the ſixths dayes; and by the writing of <hi>Peter Martyr,</hi> and <hi>Martin Bucer, Wickliffe,</hi> and others; and by the conſtant profeſſion, ſealed with the bloud of ſo many Martyrs, <hi>Cranmer, Ridley,</hi> and o<g ref="char:EOLhyphen"/>thers; and by the 36. Article, ſet forth in Queene <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> time; and by the Articles ſet forth at <hi>Lambeeth,</hi> as the Doctrine of the Church of <hi>England,</hi> which King <hi>Iames</hi> ſent to <hi>Dorte,</hi> and to <hi>Ireland,</hi> as the truth profeſſed here: and by his Majeſties Declaration and Proclamati<g ref="char:EOLhyphen"/>on, to maintaine unitie in the ſettled Religion, as appea<g ref="char:EOLhyphen"/>red by his Proclamation; and other courſes tending that
+<pb n="14" facs="tcp:124478:10"/>way, which were perverſted and abuſed to the ruine and ſubverſion of Religion, which bred a feare of Innovation; as alſo by the preferment which ſuch have received ſince the laſt Parliament, who have heretofore taught contrary to the truth.</p>
+                  <p>Then to conſider againe for what act theſe men have beene countenanced and advanced, what pardons they have had for falſe Doctrines; what Preachings hath been lately before his Majeſtie; what prohibiting of bookes, as have beene written againſt their doctrine; and permit<g ref="char:EOLhyphen"/>ting ſuch bookes as have beene for them.</p>
+                  <p>It belongs to the duty of the Parliament to eſtabliſh true Religion, and to puniſh falſe: And howſoever it is alleadged, that the Parliament are not Judges in matters of Faith; yet ought they to know the eſtabliſhed and fundamentall Truths, and the contraries unto them: For Parliaments have confirmed generall Councels, which have not beene received untill they have beene ſo autho<g ref="char:EOLhyphen"/>rized, and Parliaments have enacted Lawes for tryall of Heretiques by Jury.</p>
+                  <p>The Parliament puniſhed the Earle of <hi>Eſſex</hi> for coun<g ref="char:EOLhyphen"/>tenancing of Heretiques; and there is no Court can meet with this miſchiefe but Courts of Parliament.</p>
+                  <p>The Convocation cannot, becauſe it is but a Provinci<g ref="char:EOLhyphen"/>all Synod, onely of the Juriſdiction of <hi>Canterbury;</hi> and the power thereof is not adequate to the whole Kingdome: and the Convocation at <hi>Yorke</hi> may perhaps not agree with that of <hi>Cunterbury.</hi> The High Commiſſion cannot, for it hath its authority from Parliaments, and the deciva<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e cannot prejudice the originall: The judgement of Parliament, being the judgement of the King, and of the three Eſtates of the whole Kingdome.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Wedneſday the</hi> 28, <hi>of Ianuary.</hi>
+               </head>
+               <p>Maſter Secretary <hi>Cooke</hi> delivered another Meſſage <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:124478:10"/>his Majeſtie: <hi>viz.</hi> His Majeſtie upon an occaſion of diſ<g ref="char:EOLhyphen"/>pute in this Houſe about Tonnage and Poundage, was pleaſed to make a gracious Declaration, wherein he com<g ref="char:EOLhyphen"/>mended to the ſpeedy finiſhing thereof, and to give a precedencie thereunto. And ſince his Majeſtie under<g ref="char:EOLhyphen"/>ſtands the preferring the cauſe of Religion; His Majeſtie expects rather thankes then a Remonſtrance, yet he doth not interrupt you, ſo that you doe not trench of that, that belongs not to you. But his Majeſtie ſtill commands me to tell you, that he expects precedencie in Tonnage and Poundage; aſſuring himſelfe he hath given no occaſion to put it backe, and ſo you will not put it off.</p>
+               <sp>
+                  <speaker>M. <hi>Long.</hi>
+                  </speaker>
+                  <p>I cannot but with much ſorrow ſee that we are ſtill preſſed to this pount; I hoped that thoſe neare the Chaire would have informed his Majeſtie of our good intenti<g ref="char:EOLhyphen"/>ons: But we ſee how unhappy we are ſtill, ſome about his Majeſtie makes him diffident of us.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Thomas Edmonds.</speaker>
+                  <p>I am ſorry this Houſe hath given occaſion of ſo many Meſſages about Tonnage and Poundage; after his Majeſtie hath given us ſo much ſatisfaction. You may perceive his Majeſtie is ſenſible of the neglect of his buſineſſe: We that know this, ſhould not diſcharge our duties to you, if we ſhould not perſwade you to that courſe which ſhould procure his Majeſties good opinion of you. Your ſelves are witneſſes how induſtrious his Majeſtie was to pro<g ref="char:EOLhyphen"/>cure your gracious Lawes in his Fathers time; and ſince that, what inlargement hath he made of our Liberties, and ſtill we give him cauſe to repent him of the good he hath done: conſider how dangerous it is to alien his Majeſties heart from Parliaments.</p>
+               </sp>
+               <sp>
+                  <pb n="16" facs="tcp:124478:11"/>
+                  <speaker>M. <hi>Coriton.</hi>
+                  </speaker>
+                  <p>When men ſpeake here of neglect of duty to his Ma<g ref="char:EOLhyphen"/>jeſtie; let them know, we know no ſuch thing, nor what they meane; and I ſee not how we doe neglect the ſame: I ſee it is all our hearts to expedite the Bill of Tonnage and Poundage in due time; our buſineſſe is ſtill put backe by their Meſſages, and the buſineſſe in hand is of God and his Majeſtie.</p>
+                  <p>Things are certainly amiſſe, and every one ſees it; and woe be to us, if we preſent them not unto his Majeſty.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>I have alwayes obſerved in the proceedings of this Houſe, our beſt advantage is in Order; And I was very glad when this noble Gentleman (my Country-man) gave occaſion to ſtay our proceedings; for I feare it would have carried us into a ſea of confuſion and diſorder: And having now occaſion to preſent my thoughts unto you, in this great and weighty buſineſſe of Religion; I ſhall be bold to give a ſhort expreſſion of my owne affection; and in that order, that I hope will conduce beſt to the effecting of your worke, and direct our labours to an end. To en<g ref="char:EOLhyphen"/>ter into a particular diſquiſition of the writings of Di<g ref="char:EOLhyphen"/>vines, I feare it will involve us in a Labyrinth, that we ſhall hardly get out, and perchance hinder that way, and darken that path in which we muſt tread; before wee know what other men declared: It is neceſſary we pre<g ref="char:EOLhyphen"/>ſently lay downe what is the truth; and (as I preſume) we come not hither now to diſpute of Religion: farre be it from the thought of the Church, that hath thus long confeſſed it, now to diſpute it: Shall poſteritie thinke that we have enjoyed our Religion foureſcore yeares almoſt, and are now doubtfull of the ſence? (God forbid.) It may
+<pb n="17" facs="tcp:124478:11"/>be Sir, and out of ſome thing lately delivered, I have not unneceſſarily collected, that there is a jealouſie conceived; as if we meant to deale in matter of Faith, it is our profeſ<g ref="char:EOLhyphen"/>ſion; this is not to be diſputed, neither will that truth be receded from this long time held, nor is that Truth de<g ref="char:EOLhyphen"/>cayed; it is confirmed by Parliament becauſe it was Truth: And as this Sir, before I ſhall come to deliver my ſelfe more particularly, give me leave, that have not yet ſpo<g ref="char:EOLhyphen"/>ken in this great cauſe, to give ſome apprehenſion to have a feare; For it is in the Parliament to make a new Reli<g ref="char:EOLhyphen"/>gion, (I hope) ſhall it be in any to alter the body of the Truth, waich we now profeſſe: I muſt confeſſe Sir, a<g ref="char:EOLhyphen"/>mongſt all theſe feares we have contracted, there ariſeth to me not one of the leaſt dangers in the Declaration, which is made and publiſhed in his Majeſties name. And yet Sir, this concluſion excluſively (let me ſay that I may not be miſtaken) what ever in that or other things ſhall appeare to carry mention of his Majeſtie; we have not the leaſt ſuſpition or jealouſie of him: We have that comfort in his Pietie and Goodneſſe, as if there be any miſpriſion or errour, I hope it is by thoſe Miniſters about him; which not onely he, but all Princes are ſubject unto.</p>
+                  <p>And to cleare that, that Princes are ſubject to misin<g ref="char:EOLhyphen"/>formation, and many actions may be entituled to their names, when there is no ſuſpition of it to bee done by themſelves; we leave to looke backe to Preſidents and other times, and what I finde in our Stories, may be uſe<g ref="char:EOLhyphen"/>full in this.</p>
+                  <p>
+                     <hi>Antiochus</hi> King of <hi>Aſia</hi> ſent his Letters and Miſſives to his Provinces, &amp;c. That if they received any diſpatches in his name, not agreeable to Juſtice, <hi>Ignoto ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> litera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eſſe ſcriptas, ideoque eis, parent:</hi> I finde by <hi>Plutarch.</hi> of great King <hi>Antiochus</hi> of <hi>Aſia,</hi> who faith, that Princes are ob<g ref="char:EOLhyphen"/>noxious to abuſes of Miniſters, and yet could not at all times be prevented; and therefore he ſent Meſſengers
+<pb n="18" facs="tcp:124478:12"/>and Letters to all his Provinces, that if there were any Letters or Diſpatches ſent under his name that came to them, that were not warrantable by Law, and agreeable to Juſtice, it could not be conceived to be done by him; and therefore they ſhould not give way to it.</p>
+                  <p>Sir, I finde in another Booke, (and beſeech you let it be apprehended) <hi>Gratian</hi> did not onely note and confeſſe the ſame, but added the reaſon alſo; which the Maſters of the Civill Law can teſtifie from their Bookes, where<g ref="char:EOLhyphen"/>in is thus expreſſed, <hi>Quòd verecunda poenitentium inchoa<g ref="char:EOLhyphen"/>tione Principes ſaepe reſtringantur, ut non concedenda conce<g ref="char:EOLhyphen"/>dant;</hi> Becauſe that oftentimes with importunitie of Mi<g ref="char:EOLhyphen"/>niſters and thoſe about them, Princes are drawne to grant things by them not fit to be granted: as it was in that, ſo it may be in this: I ſpeake it to this end, to draw this con<g ref="char:EOLhyphen"/>cluſion, That if there be any thing that bars the Title of his Majeſtie, it may be his Miniſters: (farre be it from me to have any ſuſpition of him.)</p>
+                  <p>And now to that particular in the Declaration, where<g ref="char:EOLhyphen"/>in I confeſſe, with me an apprehenſion of more feare then we have in all the reſt; for in all the particulars we heard what is ſaid of Popery and Arminianiſme, it is that our Faith and Religion is in great danger, but it is by degrees: Here Sir, like an Inundation it doth breake in at once, that we are in danger to be ruined and overwhelmed: For I beſeech you marke the ground of our Religion, it is conteined in the body of theſe Articles. If there be any difference in opinion concerning the ſence and interpre<g ref="char:EOLhyphen"/>tation, the Biſhop and the Clergie in the Convocation have power admitted to them to doe any thing that ſhall concerne the continuance and maintenance of the truth, being conteined in theſe Articles, being different in the ſence; ſo as if there be any diſpute about it, it is in them to order which way they pleaſe: And for ought I know, Popery and Arminianiſme may be a ſence introduced by them, and then it muſt be received. Is it a ſlight thing
+<pb n="19" facs="tcp:124478:12"/>that the power of Religion ſhould be left to the power of theſe men? I honour their Profeſſions, and honour their calling in Reverend Biſhops, but I honour not theſe men: give leave unto me to ſay the truth; that we profeſſe is not mens, but Gods; and God forbid man ſhould be made to judge of the Truth: Looke upon the concluſion they have made, and from thence draw their arguments; I re<g ref="char:EOLhyphen"/>member a character I have ſeene, in a Diary of <hi>Edward</hi> the ſixt, that young Prince of famous memory, wherein he doth expreſſe the conditions of the Biſhops and Cler<g ref="char:EOLhyphen"/>gie of his time under his owne hand-writing: That ſome for ſloath, ſome for age, ſome for ignorance, ſome for luxury, and ſome for Popery; they were unfit for diſcipline and government.</p>
+                  <p>I hope it is not ſo with us: Nay, give me leave to vin<g ref="char:EOLhyphen"/>dicate the honour of thoſe men that openly ſhew their heart to the truth. There are amongſt our Biſhops ſuch as are fit to bee made examples for all ages, who ſhine in vertue, like thoſe two faithfull witneſſes in Heaven, of whom we may ſay that Elegie which <hi>Seneca</hi> did of <hi>Caius,</hi> that to their memories and merits <hi>No hoc quidem obstet, quod nostris temporibus nati ſunt,</hi> To whoſe memory and merit I may uſe the ſaying, that others faults are not prejudiciall to their vertues, are ſo induſtrious in their workes, that I hope poſteritie ſhall know that they are men that are firme for the Truth.</p>
+                  <p>But Sir, that all are not ſuch, ſo free, ſound, and or<g ref="char:EOLhyphen"/>thodoxe in Religion as they ſhould; witneſſe the men complained of, and you know what power they have: Witneſſe the man nominated lately in Maſter <hi>Monta<g ref="char:EOLhyphen"/>gues:</hi> I reverence the Order, I honour not the man; others may bee named as bad: I apprehend ſuch feare that ſhould be in their power, we may be in danger to have our whole Religion overthrowne.</p>
+                  <p>But I give this for teſtimonie, and thus farre expreſſe my Religion againſt all the power and oppoſition of theſe
+<pb n="20" facs="tcp:124478:13"/>men; or whenſoever any oppoſition of theſe men ſhall come, we ſhall maintaine the Religion we profeſſe, for that we have beene borne and bred: nay Sir, if cauſe be, in that I hope to die.</p>
+                  <p>Some of theſe Sir you know are Maſters of Ceremo<g ref="char:EOLhyphen"/>nies, and they labour to introduce new Ceremonies into the Church; ſome Ceremonies are uſefull: give me leave to joyne with you in one that I hold neceſſary and com<g ref="char:EOLhyphen"/>mendable, That at the repetition of the Creed we ſhould ſtand up, to teſtifie the reſolutions of our hearts, that we ſhould defend the Religion we profeſſe: And as in ſome Churches it is added, they did not onely ſtand upright with their ſwords drawne, but ſaid, if cauſe were, (they did hope) to defend their Prince, Countrey, and Religi<g ref="char:EOLhyphen"/>on, and would draw their ſwords againſt all that op<g ref="char:EOLhyphen"/>poſed.</p>
+                  <p>This I ſpeake out of that care I have to preſerve the honour of our King, who I feare by theſe Innovations of Religion may have ſought to undermine it: But to come to the manner and methode of our proceedings, having made the expreſſion; wherein, if I have tranſgreſſed the rule propounded, I receive your pardon: I deſire to avoid confuſion and diſtraction, that we may goe preſently to the ground of our Religion, and lay that downe a rule on which all others reſt: Then when that is done, it will be time to take into conſideration the breakers and often<g ref="char:EOLhyphen"/>dors againſt this rule in the next place; But before we have laid downe that, our worke will be in vaine: there<g ref="char:EOLhyphen"/>fore firſt to lay downe the propoſition wherein we differ from the Arminians, and in that I ſhall be ready to deli<g ref="char:EOLhyphen"/>ver my opinion; and this is my humble motion.</p>
+                  <p>It was ordered that a Committee ſhould be appointed to pen an anſwer to his Majeſties meſſages, and to ſhew him that it is their reſolutions to give him all expedition in his ſervice, and that they hold it not onely fit to give him thankes, but rather to ſhew what perills we are in;
+<pb n="21" facs="tcp:124478:13"/>and that Tonnage and Poundage is their owne gift, and it is to ariſe from themſelves; and that they entend not to enter into any thing that belongs not to them.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Thurſday the</hi> 29. <hi>of Ianuary.</hi>
+               </head>
+               <p>The former part of the day was ſpent in debating of the tranſportation of Corne and Victuals into <hi>Spaine;</hi> and it was ordered, that a meſſage ſhould be ſent to his Ma<g ref="char:EOLhyphen"/>jeſtie: That it is now evident, that divers Ships are bound for <hi>Spaine,</hi> and to deſire a ſtay of them, after the Houſe ſate at a Committee about Religion; After long debate, it was reſolved by the Commons Houſe of Par<g ref="char:EOLhyphen"/>liament concerning Religion, as followeth.</p>
+               <p>That We the Commons now in Parliament aſſembled, claime, profeſſe, and avow for the Truth, the ſence of the Articles of Religion, which were eſtabliſhed in Parlia<g ref="char:EOLhyphen"/>ment, in the 13. yeare of our late Queen <hi>Elizabeth,</hi> which by the publique Acts of the Church of <hi>England,</hi> and by the generall and current Expoſition of the Writers of our Church, have beene delivered to us, as we erect the ſence of the Articles of Religion, which were eſtabliſhed in Parliament in the thirteenth yeare of our late Queene <hi>Elizabeth,</hi> which by the publique Acts of the Church of <hi>England,</hi> and by the generall and current Expoſition of the Writers of our Church have beene delivered to us, and we reject the ſence of the Jeſuites and Arminians, and all other wherein they differ from us. The Houſe received an anſwer from his Majeſtie touching the Ships; which was, that he would conſider of it, and ſend them word in due time.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday the</hi> 30. <hi>of Ianuary.</hi>
+               </head>
+               <p>A Committee of the Lower Houſe went to the King in the Privy Chamber with the Petition of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt, and
+<pb n="22" facs="tcp:124478:14"/>the Archbiſhop of <hi>Yorke</hi> after hee had made a ſhort Speech, preſented it to his Majeſtie in the name of both Houſes.</p>
+               <div type="petition">
+                  <head>The Petition of both Houſes for the Fast.</head>
+                  <opener>
+                     <salute>Moſt Gratious Soveraigne,</salute>
+                  </opener>
+                  <p>It is the hearty and very earneſt deſire of us your moſt dutifull and loyall Subjects, the Lords Spirituall and Tem<g ref="char:EOLhyphen"/>porall, and Commons in this preſent Parliament aſſem<g ref="char:EOLhyphen"/>bled; that this our meeting be abundantly bleſſed with all happy ſucceſſe in the great and urgent affaires of Church and State, upon which we are to conſult; and that by a cleare underſtanding both of your Majeſties goodneſſe to us, and of our ever faithfull and loyall hearts to your Per<g ref="char:EOLhyphen"/>ſon and ſervice (all feare and diſtractions, which are apparant ſignes of Gods diſpleaſure, and of enſuing miſ<g ref="char:EOLhyphen"/>chiefe being removed, there may be this Seſſion, and for ever be a perfect and moſt happy union and agreement between your Majeſty and all the eſtates of your Realme; but humbly acknowledging that this nor any other bleſ<g ref="char:EOLhyphen"/>ſing can be expected without the favour of Almighty God, upon the obſervation of the continued and encrea<g ref="char:EOLhyphen"/>ſing miſeries of the reformed Churches abroad) whoſe caſes with bleeding hearts we compaſſionate; as like<g ref="char:EOLhyphen"/>wiſe of thoſe puniſhments already inflicted, and which are likely in great meaſure to fall upon our ſelves: We have juſt cauſe to conceive that the Divine Majeſty is for our ſinnes exceedingly offended with us.</p>
+                  <p>We doe in theſe and all other pious reſpects, Moſt Deare Soveraigne, humbly beſeech your Majeſtie, that by your Royall commandement not onely our ſelves, but all the people of your Kingdomes, may be ſpeedily enjoy<g ref="char:EOLhyphen"/>ned upon ſome certaine day by your Majeſtie prefixed, by publique Faſting and Prayer, to ſeeke reconciliation at the hands of Almignty God; ſo that the Prayers of
+<pb n="23" facs="tcp:124478:14"/>your whole Kingdome joyned with your Majeſties moſt Princely care, and the faithfull and hearty endeavours of this great Councell now aſſembled, may procure glory to Almighty God in the preſervation of his true Religion, much honour to your Majeſtie, proſperitie to your people, and comfort to all your Majeſties friends and Allyes.</p>
+               </div>
+               <div type="answer">
+                  <head>The Kings Anſwer to the Petition for the Eaſt.</head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>The chiefeſt motive of your Faſt being the deplorable eſtate of the reformed Churches abroad is too true; and our duties are, ſo much as in us lyeth, to give them all poſſible helpe; but certainly fighting will doe them much more good then faſting: though I doe not wholly diſallow of the latter; yet I muſt tell you, that the cuſtomes of Faſts every Seſſion is but lately begun: And I confeſſe I am not fully ſatisfied with the neceſſitie of it at this time, yet to ſhew you how ſmoothly I deſire your buſineſſe to goe on, eſchewing (as much as I can) Queſtions, or</p>
+                  <p>I doe willingly graunt your requeſts herein, but with this note, that I expect that ſhall not hereafter be brought into preſident for frequent Faſts, except upon great oc<g ref="char:EOLhyphen"/>caſions: As for the forme and time I will adviſe with my Lords the Biſhops, and then ſend you a particular an<g ref="char:EOLhyphen"/>ſwer to both Houſes.</p>
+               </div>
+               <div type="declaration">
+                  <head>The Declaration of the Commons.</head>
+                  <opener>
+                     <salute>Most Gratious Soveraigne,</salute>
+                  </opener>
+                  <p>We have within theſe three dayes received from your Majeſtie a meſſage, putting us in minde of our preſent entring upon the preſent conſideration of a grant of Ton<g ref="char:EOLhyphen"/>nage and Poundage; but the manner of the poſſeſſing the Houſe therewith being diſagreeable to our orders and priviledges, (ſo that we could not proceed therein; and
+<pb n="24" facs="tcp:124478:15"/>finding our ſelves in your Majeſties name preſſed in that buſineſſe, and that we ſhould give precedencie thereun<g ref="char:EOLhyphen"/>to) we cannot but expreſſe ſome ſence of ſorrow, fea<g ref="char:EOLhyphen"/>ring leaſt the moſt hearty and forward affections, where<g ref="char:EOLhyphen"/>with we deſire to ſerve your Majeſtie, are not clearely repreſented unto you; beſides, ſuch is the ſollicitous care we have of preſerving our ſelves in your Majeſties moſt gratious and good opinion, that it cannot breed but much trouble in us; when ever we finde our ſelves (as now we are enforced, to ſpend that time in making our humble Apologies, from whence doe uſually ariſe long debates, which we conceive might be very profitably applyed in the great ſervices of your Majeſty, and the Common<g ref="char:EOLhyphen"/>wealth, which we did with all humble diligence apply our ſelves unto; and finding the extreame dangers where<g ref="char:EOLhyphen"/>with our Religion is threatned, (clearely preſenting themſelves to our thoughts and conſiderations) we thinke we cannot (without impiety to God, diſloyaltie to your Majeſty, and unthankfullneſſe to thoſe from whom we are put in truſt) retarde our proceedings untill ſomething be done to ſecure us in this maine point, we preferre our lives and all earthly things whatſoever: And here we doe with all humble thankfullneſſe acknowledge your moſt pious care and Princely intentions to ſuppreſſe both Popery and Arminianiſme; The profeſſour of the one be<g ref="char:EOLhyphen"/>ing open enemies and maintainers of the others ſubtile and moſt dangerous undermyners of the Religion of Al<g ref="char:EOLhyphen"/>mighty God, eſtabliſhed in your Realme and Dominions: The truth of which our holy Religion, or any part there<g ref="char:EOLhyphen"/>of, as being ſufficiently knowne, and generally received here of all the members of our Church, except of ſome Schiſmaticall perſons, which have of late yeares taken the boldneſſe to broach their contrary corrupt opinions, we deſire ſhould not be called into doubt or queſtion; but howſoever it hath pleaſed your Majeſtie to our excee<g ref="char:EOLhyphen"/>ding great comfort by many Teſtimonies to declare your
+<pb n="25" facs="tcp:124478:15"/>owne conſtant reſolution to maintaine the ſaid Religion; yet how your gratious purpoſes are therein croſt, and into what a miſerable condition your whole Kingdome is likely by that meanes to be reduced, we ſhall earneſtly endeavour, as that which doth nearely concerne the ſafe<g ref="char:EOLhyphen"/>ty and proſperity of your Majeſty and people in ſuch ſort diſordered, that the ruine thereby threatned to both, may by Gods bleſſings be prevented; being moſt heartily ſor<g ref="char:EOLhyphen"/>ry that theſe occaſions are offered, which did thus hinder our occaſions in proceeding; and therefore aſwell for the dignity and neceſſity of the matter, as for that we receive it to be a moſt-ſpeedy and effectuall way, by uniting our hearts and endeavours to diſpatch all other buſineſſes of importance; particularly thoſe which may ſeeme more immediately to reſpect your Majeſties profit: We pray that our reſolutions of preferring this buſineſſe before all other, may be acceptable to your Majeſtie: To whom both in the matter and the manner of our proceedings, we deſire to give all poſſible ſatisfaction.</p>
+               </div>
+               <div type="answer">
+                  <head>
+                     <hi>The Kings Anſwer to the Declaration of the Houſe of Commons the third of February:</hi> Ann. 1628.</head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>This Anſwer being ſomewhat long, may by reaſon re<g ref="char:EOLhyphen"/>quire ſome time to reply unto it, ſince as moſt of you cannot but judge, that this giveth no ſatisfaction, there<g ref="char:EOLhyphen"/>fore I ſhall give you ſome ſhort notes upon it; I cannot thinke that whereas you alleadge the Bill of Tonnage and Poundage was brought in againſt the priviledge of your Houſe, that you will offer to take ſo much priviledge from every one of your members, as not to allow them the liberty to bring in any Bill whatſoever, although it be in your power (when it is brought in) to do with it what you thinke good. And I cannot imagine your comming together onely by my power, and to treat of things that I
+<pb n="26" facs="tcp:124478:16"/>propound unto you, can deny me that prerogative to com<g ref="char:EOLhyphen"/>mend or offer my Bill unto you; Though in this particular I muſt confeſſe that this Bill was not to have bin offered unto you in my name, as that member in your Houſe can beare me witneſſe. As for the cauſe of delay in my bu<g ref="char:EOLhyphen"/>ſineſſe, being Religion, here is none of you ſhall have a greater care for the true preſervation of it then my ſelfe; which ſince it is confeſſed by your Anſwer, you muſt ei<g ref="char:EOLhyphen"/>ther thinke I want power (which cannot be) or that I am very ill counſelled, if it be in ſo much danger as you affirme.</p>
+                  <p>Though I may ſay much of this point, I will ſay no more; but for all this I ſhall not ſtop my eares to you upon this ſubject, ſo that in forme and matter you tranſ<g ref="char:EOLhyphen"/>greſſe not your limits: As for Tonnage and Poundage I doe not ſo much deſire it out of greedineſſe of the thing, being perſwaded you will make no great ſtop in it, when once you take it in hand, as out of deſire to put an end to theſe queſtions that ariſe betweene Me and ſome of my Subjects, thinking it a ſtrange thing if you ſhould give eare to theſe complaints; and not to take the ſure and ſpeedieſt way to decide them. Beſides, I muſt thinke it ſtrange, that this buſineſſe of Religion ſhould be onely a hinderer of my affaires; whereas I am certainly informed, all other things goe according to their ordinary courſe; therefore I muſt ſtill be inſtant with you, that you pro<g ref="char:EOLhyphen"/>ceed with Tonnage and Poundage with all diligence, not looking to be derned in ſo juſt a deſire: And you muſt not thinke it ſtrange if I finde you flacke, I give you ſuch farther quickning as I ſhall finde cauſe.</p>
+               </div>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Tueſday the</hi> 3. <hi>of February. Anno</hi> 1628.</head>
+               <p>Secretary <hi>Cooke</hi> reported that himſelfe and the reſt of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Committee attended his Majeſty upon Monday: And he ſaid, for my part I have uſed all diligence to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the
+<pb n="27" facs="tcp:124478:16"/>commaunds of my Maſter, and of this Houſe: And I find that ſome exceptions have beene taken at ſome words by me uſed, when I delivered the Bill of Tonnage and Poun<g ref="char:EOLhyphen"/>dage; indeed I uſed many Arguments in ſpeaking of his Maieſty, I ſaid it much concerned him, and that his Ma<g ref="char:EOLhyphen"/>jeſty much deſired it; but this was miſtaken, as if his Ma<g ref="char:EOLhyphen"/>jeſty had commanded it, and I required it in his name, which I did not intend; but to avoid diſpute, I ſaid not this was an ordinary Revenue, but that this Tonnage and Poundage was a meanes to enable his Majeſtie to ſet his Fleet to Sea.</p>
+               <p>After this Apologie, he read his Majeſties Anſwer to the Petition of the Lower Houſe.</p>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>
+                     <hi>Maſter Speaker,</hi>
+                  </p>
+                  <p>I confeſſe this hath given great ſatisfaction for our pre<g ref="char:EOLhyphen"/>ſent deſires, and future hopes; and however I finde the miſ-interpretation of ſome, and the danger of our Religi<g ref="char:EOLhyphen"/>on, yet I finde his Majeſties eares open; and that if thoſe things be thus as we ſee, that then he is not rightly coun<g ref="char:EOLhyphen"/>ſelled; I am confident we ſhall render his Majeſty an ac<g ref="char:EOLhyphen"/>compt of what he expects: But Sir, I apprehend a diffe<g ref="char:EOLhyphen"/>rence betweene his Majeſties expreſſion, and the expreſ<g ref="char:EOLhyphen"/>ſion of his Miniſters; For Sir, that Bill was tendered here in his Majeſties name, and now we finde that his Maje<g ref="char:EOLhyphen"/>ſty diſavowes it, that he did it not; what wrong is this done to his Majeſty, and to this Houſe, to preſſe things in his Majeſties name, to the prejudice and diſtraction of us all, I thinke him not worthy to ſit in this Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Maſter Speaker.</speaker>
+                  <p>This Honourable Perſon did explaine himſelfe, that he did not preſſe it in his Majeſties name, but onely com<g ref="char:EOLhyphen"/>mended it to your conſideration.</p>
+               </sp>
+               <sp>
+                  <pb n="28" facs="tcp:124478:17"/>
+                  <speaker>Secretary Cooke.</speaker>
+                  <p>I ſaid, that in regard of the difference betweene his Majeſtie and his Subjects, my deſire was to accommo<g ref="char:EOLhyphen"/>date it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Humphrey May.</speaker>
+                  <p>If you be too quicke to except againſt the Miniſters of his Majeſty that ſerves his houſhold, it will diſcourage and ſtoppe our mouthes, whoſe Service you daily com<g ref="char:EOLhyphen"/>mend.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Wedneſday the</hi> 4. <hi>of February. Anno</hi> 1628.</head>
+               <sp>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>The two Biſhops named are the maine and great Roots; Let us enquire what men they have preferred.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Coriton.</hi>
+                  </speaker>
+                  <p>The Declaration now read came from his Majeſtie, but it is by adviſe of his Miniſters; and ſure they have not adviſed the right way: That no diſpute of Preaching muſt be one way or other, this is to ſuppreſſe the truth; and yet the contrary profeſſors of it are preferred in the Church, to the griefe of all good men.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Walter Earle.</speaker>
+                  <p>
+                     <hi>Mountague</hi> is a principall diſturber of the Church: He was a Batchelour of Divinity, I would know how hee came to be a Biſhop; two men are named in the laſt Re<g ref="char:EOLhyphen"/>monſtrance that are Privie Counſellours, and it is very
+<pb n="29" facs="tcp:124478:17"/>probable, that theſe Eccleſiaſticall Officers did give that advice to his Majeſtie.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Humphrey May.</speaker>
+                  <p>I will let you know what I am privy unto; It is true, thoſe two were named in the Remonſtrance. This point was preſſed before the King and his Councell; The King doth utterly diſlike thoſe Novellours, then were theſe Bi<g ref="char:EOLhyphen"/>ſhops with teares in their eyes preſent, and proteſted, they hated thoſe opinions and the Queſtions; and they re<g ref="char:EOLhyphen"/>nounced them upon their knees.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iames Parrat.</speaker>
+                  <p>It is ſaid that theſe two Biſhops were before the Coun<g ref="char:EOLhyphen"/>cell, and with teares did diſclaime the opinions; but we ſee their facts: The Biſhop of London, Doctor <hi>Land,</hi> did entertaine for his Chaplaine in his houſe, one that did diſpute the Arminian points; who ſaid, what Arminians hold and write, this I will maintaine and juſtifie upon my oath.</p>
+               </sp>
+               <p>It was ordered that the complaint againſt Maſter <hi>Mountague</hi> ſhould be taken into conſideration, and that a Committee ſhould make ſearch after the pardon.</p>
+               <p>A Petition was preferred againſt <hi>Cozens.</hi>
+               </p>
+               <p>Maſter <hi>Sherland</hi> made report from the Committee a<g ref="char:EOLhyphen"/>bout the ſearch for the Pardons; that they found Pardons ſealed, one to Biſhop <hi>Mountague;</hi> one to <hi>Cozens,</hi> one to Doctor <hi>Mannering,</hi> and one to Doctor <hi>Sibthorpes.</hi>
+               </p>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>If ever there came here buſineſſe of like conſequence, I have loſt my memory; if ever King of <hi>England</hi> was
+<pb n="30" facs="tcp:124478:18"/>abuſed in his mercy, it is our King; what perſons are pardoned, the greateſt enemies to the Church and State, that ever was ſtanding under the judgement of Parlia<g ref="char:EOLhyphen"/>ment, they are pardoned betweene Parliaments: If eve<g ref="char:EOLhyphen"/>ry man be not warned to ſearch this into the bottome, I would we might never regard any thing: Yee ſee an of<g ref="char:EOLhyphen"/>fendor complained of, and in ſtead of puniſhment, Grace; the goodneſſe of our King is thus abuſed: Let a ſelect Committee conſider of it, and let Maſter Attorney certifie what is done, and by whom; and I hope we ſhall find thoſe originall Inſtruments who have miſ-led his Majeſtie.</p>
+               </sp>
+               <p>It was ordered, that a ſub-Committee ſhould have power to ſend for the Records, and the Privy Seale, and other Inſtruments belonging to the Pardons, and to ſend for the parties; and alſo to ſend to Maſter Attorney about his knowledge, by whoſe ſignification the Pardons were obtained: which was done accordingly.</p>
+               <p>Sir <hi>Robert Phillippes</hi> made report, that we went to Ma<g ref="char:EOLhyphen"/>ſter Attorney, and found him in the Starre-Chamber, and acquainted him with the Meſſage; He anſwered, that he received a command from his Majeſtie in the laſt long Vacation, preſently after the end of the laſt Seſſion, to draw a Pardon; and delaying it till <hi>Michaelmas</hi> Terme, he ſaid, that he met with the Biſhop of <hi>Chicheſter,</hi> who inti<g ref="char:EOLhyphen"/>mated unto him his Majeſties favour, and requeſted him to draw his Pardon. Maſter Attorney ſaid, he deſired him to adviſe whither it would be any advantage to him or no: after he met with a great Lord, and a Privy Coun<g ref="char:EOLhyphen"/>ſellour, (the Earle of <hi>Dorſet</hi>) who asked him if the Par<g ref="char:EOLhyphen"/>don for the Biſhop of <hi>Chicheſter</hi> were drawne, and deſi<g ref="char:EOLhyphen"/>red him to diſpatch it. After this he ſaid, the Lord <hi>Carlton</hi> ſent to him a warrant under the Kings hand, to command him to draw the Pardon, which he did, and ſent it to the Biſhop of <hi>Winchester,</hi> who interlined it: And whereas the Pardon was but for one, he put in foure; <hi>Montague, Cozens, Sibthorpe, Mannering.</hi>
+               </p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="31" facs="tcp:124478:18"/>
+               <head>
+                  <hi>Thurſday the</hi> 5. <hi>of February. Anno</hi> 1628.</head>
+               <p>Secretary <hi>Cooke</hi> brought the Kings Anſwer to the Houſe, concerning the Faſt; <hi>viz.</hi> That it was his Maje<g ref="char:EOLhyphen"/>ſties pleaſure that the Faſt ſhould be kept by both Houſes of Parliament on the eighteenth day of this inſtant <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> and for the whole Kingdome the 20. of <hi>March.</hi>
+               </p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday the</hi> 6. <hi>of February. Anno</hi> 1628.</head>
+               <p>One <hi>Witherington</hi> was petitioned againſt (who had for<g ref="char:EOLhyphen"/>merly beene examined before the Lords of the Councell) for depraving our Religion, oftentimes calling the Prote<g ref="char:EOLhyphen"/>ſtants Heretiques, wiſhing that an hundred of their throats were cut: And to one that was a Papiſt, and lately tur<g ref="char:EOLhyphen"/>ned to our Religion, he ſaid he would be hanged, and o<g ref="char:EOLhyphen"/>therwiſe diſgraced him. It was ordered that he ſhould be ſent for.</p>
+               <p>The Houſe being informed about two dayes agoe, that a little before <hi>Cozens</hi> obtained his Pardon, he was accuſed to Maſter Attorney by two witneſſes, for ſpeaking words againſt the King, and ſent to Maſter Attorney about it: Sir <hi>Robert Phillippes</hi> and others were appointed to examine this buſineſſe: whereupon report was made to the Houſe by Sir <hi>Robert Phillippes,</hi> as followeth.</p>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>My part is to give accompt about the affidavits againſt <hi>Cozens,</hi> and the diverſion of the cauſe againſt him in the Starre-Chamber: Maſter Attorney ſaid, that one Maſter <hi>Heath</hi> of <hi>Graies Inne</hi> came to him about <hi>Michaelmas</hi> Terme, and affirmed that <hi>Cozens</hi> in a publique meeting ſaid, that the King had nothing to doe to be Head of the Church, and that he had no more power to excommuni<g ref="char:EOLhyphen"/>cate,
+<pb n="32" facs="tcp:124478:19"/>then his ſervant that rubbed his horſes heeles: the Attorney acquainted his Majeſtie with it, but his Maje<g ref="char:EOLhyphen"/>ſtie was not willing to beleeve that any man would dare ſay ſo much, but that the compliant did ariſe from malice; but hee charged the Attorney to make a carefull diſquiliti<g ref="char:EOLhyphen"/>on of it; and if it were ſtrongly proved, that then hee ſhould repaire to his Majeſtie: Maſter Attorney did a<g ref="char:EOLhyphen"/>gaine enquire after this buſineſſe, and ſaid to Maſter <hi>Heath,</hi> the matter is found and very improbable, there is ſome miſtake in it; hereupon there were two Affidavits taken, and they did ſweare it point blancke: Yet Maſter Attor<g ref="char:EOLhyphen"/>ney ſent his Letters to Maſter Deane, and others that were preſent when the words were ſpoken, to require them to certifie whether the words were ſpoken or no; upon that Certificate there was ſome variance about the words, and thereby the buſineſſe was leſſened; and being demanded if he had directions from any to deſiſt, he ſaid no: But ca<g ref="char:EOLhyphen"/>ſually he met with the Biſhop of <hi>Wincheſter,</hi> and hee told him of the complaint; The Biſhop ſaid, it will be nothing. For <hi>King</hi> (one of them that made the Affidavit) is but a baggage fellow.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>It was our honour and duty not to paſſe theſe things over too ſleightly; I finde the Kings Honour and his Right is in queſtion, which we are all ſworne to: If I miſtake not, it is high Treaſon, and that proved upon oath, and preſented to the Attorney. His Majeſtie was acquain<g ref="char:EOLhyphen"/>ted with it, who gave command to examine it, and the Attorney was to certifie his Majeſtie. In ordinary Felo<g ref="char:EOLhyphen"/>nies the Law doth not allow oathes contrary to the pro<g ref="char:EOLhyphen"/>ceedings for the King; here againſt two Affidavits, a Let<g ref="char:EOLhyphen"/>ter and a Certificate muſt dath them all. The Attorney informed the Biſhop of <hi>Wincheſter</hi> with it, who ſaid, that hee heard of ſuch a complaint againſt <hi>Iacke Cozens,</hi> but it
+<pb n="33" facs="tcp:124478:19"/>was upon malice: Let the perſons that made theſe affi<g ref="char:EOLhyphen"/>davits be ſent for, and let Maſter Attorney be ſent for, to anſwer why he paſſed over the matter ſo ſleightly: Con<g ref="char:EOLhyphen"/>ſider the perſon of the man in queſtion, not onely ſuſpe<g ref="char:EOLhyphen"/>cted, but charged as Arminians, and one that is obno<g ref="char:EOLhyphen"/>xious.</p>
+               </sp>
+               <p>It is ordered that the witneſſes ſhould bee ſent for.</p>
+               <p>It was moved that Maſter Attorney ſhould be ſent for, but they made a queſtion whether they could ſend for him or no, if he attended by Writ in the Lords Houſe; There<g ref="char:EOLhyphen"/>upon it was ordered that intimation ſhould be given him to be there on Monday next, to give in ſatisfaction to the Houſe for his not proceeding againſt <hi>Cozens,</hi> having two Affidavits.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Saterday the</hi> 7. <hi>of February. Anno</hi> 1628.</head>
+               <p>Sir <hi>Dudley North</hi> informed the Houſe that one Doctor <hi>Moore</hi> attending the Biſhop of <hi>Wincheſter,</hi> upon an occa<g ref="char:EOLhyphen"/>ſion the Biſhop told him, that hee had often heard him preach before King <hi>Iames,</hi> and that hee uſed to preach a<g ref="char:EOLhyphen"/>gainſt Popery, (which hee ſaid was well liked of then) but now you muſt not doe ſo; whereupon the Doctor ſaid, that if occaſion did ſerve, he would not ſpare to doe the like now; to whom the Biſhop further replyed, then the times were not the ſame, and therefore you muſt not.</p>
+               <p>Sir <hi>Robert Phillippes</hi> ſaid, by this you may gueſſe; that this Biſhop had a hand in ſetting up thoſe Ceremonies in <hi>Durham,</hi> and that he beares good will towards them, la<g ref="char:EOLhyphen"/>bouring to make <hi>Durham</hi> and <hi>Winchester</hi> Synonymaes. This reflects upon his Majeſtie, as if his Majeſtie ſhould not be pleaſed that men in their Preaching ſhould refell and repell Popery.</p>
+               <sp>
+                  <pb n="34" facs="tcp:124478:20"/>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>In this Lord is hatcht and contracted all the danger, (we feare) for he hath procured thoſe Pardons, which may be the author of thoſe new opinions: And I doubt not, but that his Majeſtie being informed thereof, will leave him to the Juſtice of this Houſe; and I hope thoſe exhalations will not raiſe jealouſies betwixt his Majeſtie and us: let the Doctor be ſent for to juſtifie it; which was ordered accordingly.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Monday the</hi> 9. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Petition in complaint of the Poſtmaſters Patent of <hi>London,</hi> which is referred to a Committee.</p>
+               <p>Maſter Speaker delivered from Maſter Attorney a Narration in writing, of his proceedings in <hi>Cozens</hi> buſineſſe.</p>
+               <p>Sir <hi>Iohn Elliott</hi> reported from the Committee, for ex<g ref="char:EOLhyphen"/>amination of the Merchants buſineſſe; that the Commit<g ref="char:EOLhyphen"/>tee finding Sheriffe <hi>Acton</hi> in prevarications and contradi<g ref="char:EOLhyphen"/>ctions in his exammation, which being conceived to be a contempt to this Houſe deſires, he may be ſent for to an<g ref="char:EOLhyphen"/>ſwer his contempt.</p>
+               <p>Maſter <hi>Goodwin</hi> ſaith, that the Sheriffe acknowledgeth his errour; and humbly deſireth ſo much favour, that hee may once againe be called before the Committees, and if he give not full contentment by his anſwer, he will referre himſelfe to the Wiſedome and Juſtice of this Houſe.</p>
+               <p>Sir <hi>Walter Earle</hi> ſecondeth this motion, ſo did Alder<g ref="char:EOLhyphen"/>man <hi>Moulſon,</hi> Secretary <hi>Cooke,</hi> Chancellour of the Dutony, and ſome others; but this abuſe being declared to be ſo great and groſſe, and that hee had ſo many times gi<g ref="char:EOLhyphen"/>ven him to recollect himſelfe; and being ſo great an of<g ref="char:EOLhyphen"/>ficer of ſo great a Citie, he had all the favour that might
+<pb n="35" facs="tcp:124478:20"/>be, and yet rejected the ſame, and carried himſelfe in a very ſcornfull manner: wherefore it is ordered hee ſhall be ſent for to the Houſe as a Delinquent to morrow mor<g ref="char:EOLhyphen"/>ning.</p>
+               <p>
+                  <hi>Iones</hi> the Printer and his Counſell are called to argue the buſineſſe of Maſter <hi>Montagues</hi> Epiſcopall confirma<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Firſt, <hi>Quaere.</hi> Whether the Exceptions be legall.</p>
+               <p>Secondly, Whether the confirmation be good.</p>
+               <p>Thirdly, and the laſt, is the point now in hand: To which the Houſe enjoyned the Councell to ſpeake. The Councell propounded a third Queſtion; what will be the fruit or effect, if in Law, the Confirmation prove voide: In this the Councell ſaid, it will not extend to make no Biſhop upon the point of Confirmation onely, which ma<g ref="char:EOLhyphen"/>keth him puniſhable, if he execute any thing concerning the Biſhopricks.</p>
+               <p>Sir <hi>Henry Martin</hi> ſaith, the Exception making voide the Confirmation, doth in Law worke alſo upon the Ele<g ref="char:EOLhyphen"/>ction, and will make that voide alſo.</p>
+               <p>Doctor <hi>Steward</hi> ſaith, the point of ſetting to the Advo<g ref="char:EOLhyphen"/>cates hand, is but a matter of forme in the Court, no mat<g ref="char:EOLhyphen"/>ter of Law.</p>
+               <p>Sir <hi>Henry Martyn</hi> ſaith, he will endeavour to give the Houſe full ſatisfaction, and will ſpeake without relation to the Kings Right and Lawes of the Realme; the Pro<g ref="char:EOLhyphen"/>clamation by the Common Law, ſhould not be at <hi>Bowe</hi> Church, but at the Cathedrall Church of the Dioceſſe, where the Biſhop is to be elected, and the Deane and Chapter of that Dioceſſe are to accept, and not every one that will. The Arguments are endleſſe; and to alter a courſe ſo long ſetled; I conceive it is plaine, the King and the Law have power to deprive him of his Biſhopricke, if hee deſerve the ſame; I thinke therefore it were good to decline this diſpute for the preſent, and to proceed to remove him, which is allowed of.</p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="36" facs="tcp:124478:21"/>
+               <head>
+                  <hi>Tueſday the</hi> 10. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Bill for ordering the government and Plantation of the Summer Iſlands.</p>
+               <p>A Bill to reſtraine ſome abuſes in Miniſters and Ma<g ref="char:EOLhyphen"/>giſtrates.</p>
+               <p>Maſter <hi>Rolles</hi> complaineth, that ſince his laſt complaint of the breach of the Liberties of this Houſe, his Ware<g ref="char:EOLhyphen"/>houſe hath beene lockt up by one <hi>Maſſey</hi> a Purſevant; and that yeſterday he was called forth from the Committee in the Exchequer Chamber, but that ſince hee receaved a Letter from Maſter Attorney, that it was a miſtake, the <hi>Subpaena</hi> was read, but the Letter not ſuffered to be read.</p>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>You ſee we are made the ſubjects of ſcorne and con<g ref="char:EOLhyphen"/>tempt; I conceive this to be a Bone throwne by them, that have drawne a cloud on our Religion, to divert or in<g ref="char:EOLhyphen"/>terrupt us in the proſecution of them; I deſire the Meſſen<g ref="char:EOLhyphen"/>ger may be ſent for, and be examined by what procure<g ref="char:EOLhyphen"/>ment this <hi>Subpaena</hi> was taken forth; for if we finde not forth thoſe that throw theſe ſcornes upon us, it is in vaine to ſit here.</p>
+               </sp>
+               <sp>
+                  <speaker>Maſter Chancellour of the Dutchie.</speaker>
+                  <p>This proceedeth from ſome great errour; for I will aſ<g ref="char:EOLhyphen"/>ſure you, this never proceeded from King nor Councell; I therefore deſire it may be ſearched to the bottome, for be confident neither King nor State have caſt in this as <hi>Bone.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Seldon.</hi>
+                  </speaker>
+                  <p>This is not to bee reckoned an errour; for queſtionleſſe
+<pb n="37" facs="tcp:124478:21"/>this is purpoſely to affront us, and our owne Lenities is the cauſe of this.</p>
+               </sp>
+               <p>It is ordered that <hi>Shenington</hi> the meſſenger that ſerved the <hi>Subpoena,</hi> be preſently ſent for; and to examine the ſame, and by whom the ſame was put in; and they have power to ſend for perſons, or Records that may informe them: And alſo they ſhall have power to enjoyne any, whom they ſhall thinke fit to attend the Houſe at ſuch time as they ſhall thinke meet.</p>
+               <p>The priviledge of the Merchants that are Plaintifes here, may be taken into conſideration by this Committee, concerning the information in the Starre-Chamber.</p>
+               <p>Sheriffe <hi>Acton</hi> called to the Barre as a delinquent, upon his knees ſaith, if hee hath offended or erred, it is through want of memory and ignorance, for he intended not the leaſt diſlike or diſtaſte to any member of this Houſe.</p>
+               <p>Maſter <hi>Long</hi> moved that hee might bee ſent to the Tower.</p>
+               <sp>
+                  <speaker>Sir Francis Seymor.</speaker>
+                  <p>That he may be referred backe to the Committee, to be examined; if then hee deale not clearely, this Houſe may proceed to further puniſhment.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>I cannot remember when we did commit a Sheriffe of <hi>London,</hi> but I remember when this Houſe did commit both the Sheriffes of <hi>London</hi> to the Tower, for an abuſe of leſſe nature, onely for countenancing a Serjeant in an Ar<g ref="char:EOLhyphen"/>reſt on a member of Parliament, though they did acknow<g ref="char:EOLhyphen"/>ledge their faults at the Barre, (which this man hath not yet done) the Serjeant ſent to little eaſe, the partie at whoſe ſuit he was arreſted was committed to the Fleet, and both the Sheriffes to the Tower.</p>
+               </sp>
+               <sp>
+                  <pb n="38" facs="tcp:124478:22"/>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>I came into this Houſe with as good a will to this man, as any man; for I was ſpoken to, to ſtand for him, as I came in, and I promiſed to doe what favour I could: But if he were my Brother, he ſhould to the Tower.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Littleton.</hi>
+                  </speaker>
+                  <p>You ſee the affronts by Bookes, by Preaching, by Ru<g ref="char:EOLhyphen"/>mors, by being daily ſerved with Proceſſe that are put upon us, that we are become but a meere ſcarre-crow; the neglect of our duty is the cauſe of this: It is high time to remedy this; or it is in vaine to ſit here.</p>
+               </sp>
+               <p>The Sheriffe is againe called to the Barre on his knees, and is ſentenced to the Tower.</p>
+               <sp>
+                  <speaker>Sir Benjamin Rudiardes.</speaker>
+                  <p>There are divers Recantations, and Submiſſions, and Sentences, remaining on Record in both Univerſities, againſt Arminianiſme, that concerning any thing that may conduce to our end, the Speakers letter may bee ſent to the Vice-Chancellour, for thoſe Records, which is or<g ref="char:EOLhyphen"/>dered.</p>
+                  <p>It is ordered that <hi>Worſtenholme Dawes,</hi> and <hi>Carmarthen,</hi> are to be at the Barre upon Friday.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Wedneſday the</hi> 11. <hi>of February. Anno</hi> 1628.</head>
+               <p>M. <hi>Selden</hi> reported concerning the Proceſſe of the Merchants, that Maſter Attorney gave order for the Pro<g ref="char:EOLhyphen"/>ceſſe, and that Maſter Attornies man took for the ſame.</p>
+               <p>For the Bill, it is a courſe by way of crime for thoſe things which depend in Parliament, complained here by
+<pb n="39" facs="tcp:124478:22"/>the Merchants: The Coppie of the Bill brought in and read, That the Merchants did plot, practiſe, and combine againſt the peace of the Kingdome; This being concei<g ref="char:EOLhyphen"/>ved to be a buſineſſe incident to Tonnage and Poundage, is ordered to be referred untill to morrow morning.</p>
+               <sp>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>That a report ſhould be made to morrow of the com<g ref="char:EOLhyphen"/>plaints of the Merchants, and the Information in the Ex<g ref="char:EOLhyphen"/>chequer may alſo be brought; which was ordered.</p>
+                  <p>It is ordered, that in reſpect the Terme ends to mor<g ref="char:EOLhyphen"/>row, and the Aſſiſes to follow, and divers members and Lawyers may be gone; it is ordered none ſhall goe forth of Towne, without leave of the Houſe.</p>
+                  <p>It is ordered the Speakers letter to be ſent for Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Cooke.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>At the Committee for Religion.</speaker>
+                  <p>M. <hi>Walter</hi> delivered a Petition of the Booke-ſellers and Printers in complaint of the reſtraint of Bookes, writ<g ref="char:EOLhyphen"/>ten againſt Popery and Arminianiſme, and the contrary allowed of by the onely meanes of the Biſhop of <hi>London;</hi> and that divers of them have beene Purſevanted for Prin<g ref="char:EOLhyphen"/>ting of orthodoxe Books; and that the licenſing of Books is now onely reſtrained by the Biſhop of <hi>London,</hi> and his Chaplaines.</p>
+                  <p>One of the Printers ſaid he tendred divers Books, one called <hi>The Golden Spurre to the celeſtiall Race;</hi> That <hi>Tur<g ref="char:EOLhyphen"/>ner,</hi> one of the Biſhop of <hi>Londons</hi> Chaplaines, ſaid, that if he would put out the point, That a man may be certaine of his Salvation, he would licence the ſame; notwithſtan<g ref="char:EOLhyphen"/>ding hee put out the ſame point, yet hee could not get it licenced.</p>
+               </sp>
+               <sp>
+                  <pb n="40" facs="tcp:124478:23"/>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>The refuſing the licenſing of Bookes is no crime, but the licenſing of bad Bookes is a crime: There is no Law to prevent the printing of any Booke in <hi>England,</hi> onely a Decree in Starre-Chamber; therefore that a man ſhould be fyned, impriſoned, and his goods taken from him, is a great Invaſion on the liberty of the Subject, hee moveth that a Law may be made upon this.</p>
+               </sp>
+               <p>This is referred to a ſelect Committee to be ex<g ref="char:EOLhyphen"/>amined.</p>
+               <p>Maſter <hi>Shervile</hi> reported concerning the pardons that they have examined Doctor <hi>Sibthorpes,</hi> and <hi>Cozens</hi> par<g ref="char:EOLhyphen"/>don: <hi>Sibthorpes</hi> ſollicited his owne pardon, and ſaid hee would get the Biſhop of <hi>Winchester</hi> to get the Kings hand to it; It is evident that the Biſhop of <hi>Winchester</hi> got the Kings hand to <hi>Sibthorpes</hi> and <hi>Cozens</hi> pardons, and alſo <hi>Montagues</hi> pardon was promiſed by him. That Doctor <hi>Mannering</hi> ſollicited his owne pardon, and the Biſhop of <hi>Winchester</hi> got the Kings hand to his pardon. It is like<g ref="char:EOLhyphen"/>wiſe ſaid, the Pardons were all drawne by Maſter Attor<g ref="char:EOLhyphen"/>ney, before there was any Warrant.</p>
+               <p>Maſter <hi>Cromwell</hi> ſaith, he had by relation from one Do<g ref="char:EOLhyphen"/>ctor <hi>Beard,</hi> that <hi>Beard</hi> ſaid, that Doctor <hi>Alablaster</hi> had preached flat Popery at <hi>Pauls Croſſe.</hi> The Biſhop of <hi>Winchester</hi> commanded him, as he was his Dioceſſan, that he ſhould preach nothing to the contrary.</p>
+               <p>Sir <hi>Robert Phillippes</hi> ſaith, one Doctor <hi>Marſhall</hi> will relate as much, ſaid to him by the Biſhop of <hi>Winchester,</hi> as the Biſhop ſaid to Doctor <hi>Moore.</hi>
+               </p>
+               <sp>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>That Doctor <hi>Marſhall</hi> and Doctor <hi>Beard</hi> may bee ſent for: That this Biſhop, though he hath leapt thorow ma<g ref="char:EOLhyphen"/>ny
+<pb n="41" facs="tcp:124478:23"/>Biſhoprickes, yet he hath left Popery behinde him.</p>
+                  <p>That <hi>Cozens</hi> frequenting the Printing-houſe, hath cau<g ref="char:EOLhyphen"/>ſed the Booke of Common Prayer to be new printed; and hath changed the word Miniſter into Prieſt, and hath put out in another place the word Elect: Thus <hi>Cozeus</hi> and his Lord goe hand in hand.</p>
+                  <p>Sir <hi>Miles Fleetwood</hi> ſaith, wee are to give <hi>Mountague</hi> his charge, and by his Bookes chargeth him with
+<list>
+                        <item>1. Schiſme in errour of Doctrine.</item>
+                        <item>2. Faction in point of State.</item>
+                        <item>3. Matter of Aggravation.</item>
+                     </list>
+                  </p>
+                  <p>Sir <hi>Walter Earle (Qui color albus erat, nunc est contra<g ref="char:EOLhyphen"/>rius albo;)</hi> ſaith, Doctor <hi>White</hi> hath ſould his Orthodoxe bookes, and bought Jeſuiticall bookes: And <hi>Moore,</hi> that Biſhop <hi>White</hi> may goe arme in arme with <hi>Mountague.</hi>
+                  </p>
+                  <p>Ordered a ſelect Committee to bee named to digeſt theſe things that have beene already agitated, concerning the Innovation of our Religion, the cauſe of the Innova<g ref="char:EOLhyphen"/>tion, and the remedy.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Thurſday the</hi> 12. <hi>of February. Anno</hi> 1628.</head>
+               <p>The Sheriffe of <hi>London</hi> upon his ſubmiſſion, is releaſed of his impriſonment in the Tower.</p>
+               <p>Sir <hi>Iohn Elliott</hi> made the report from the Committee, in the Examination of the complaints of the Merchants, and delivered in the Orders and Injunctions in the Ex<g ref="char:EOLhyphen"/>chequer.</p>
+               <p>At a great Committee for Tonnage and Poun<g ref="char:EOLhyphen"/>dage, Maſter <hi>Shervile</hi> in the Chaire.</p>
+               <p>Maſter <hi>Walter</hi> delivered a Petition from <hi>Chambers. Fawkes,</hi> and <hi>Gilborne,</hi> in complaint of an Information againſt them in the Starre-Chamber, about Tonnage and Poundage; and that by reſtraint of their goods, they are like to be undone.</p>
+               <sp>
+                  <pb n="42" facs="tcp:124478:24"/>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>The Merchants are not onely kept from their goods by the Cuſtomers, but by a pretended Juſtice, in a Court of Juſtice (the Exchequer I conceive:) if the Judges of that Court had their underſtanding enlightened, they would reforme the ſame, and the Merchants thereby ſuddenly come to their goods.</p>
+                  <p>Maſter <hi>Wansford</hi> conceiveth this a difficult way for us to goe.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Coriton.</hi>
+                  </speaker>
+                  <p>Let it be done which way the Houſe ſhall thinke fit: But I conceive it is fit the Merchants ſhould have their goods. And before we can think of the Bill, Kings ought not by the Law of God thus to oppreſſe their ſubjects: I know we have a good King, and this is the adviſe of his wicked Miniſters; but there is nothing that can be more diſhonourable unto him.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Strowde.</hi>
+                  </speaker>
+                  <p>That it may bee voted that the Merchants may have their goods before we enter on the Bill.</p>
+               </sp>
+               <sp>
+                  <speaker>Chancellour of the Dutchie.</speaker>
+                  <p>I ſhall ſpeake my opinion, becauſe I know not whe<g ref="char:EOLhyphen"/>ther I ſhall have liberty to ſpeake, or you to heare any more: All the proceedings of the King and his Miniſters was to keepe the Queſtion ſafe, untill this Houſe ſhould meet; and you ſhall finde the proceedings were legall: And thus much, not knowing whether I ſhall attaine li<g ref="char:EOLhyphen"/>berty to ſpeake here againe.</p>
+               </sp>
+               <sp>
+                  <pb n="43" facs="tcp:124478:24"/>
+                  <speaker>Maſter Treaſurer.</speaker>
+                  <p>There is none here but would thinke it a hard thing, that a poſſeſſion ſhould be taken from us without any or<g ref="char:EOLhyphen"/>der for ſequeſtration, that therefore it was not to be ſuffe<g ref="char:EOLhyphen"/>red that thoſe few men ſhould ſo unjuſtly diſturbe the government of the State, deſires that there may bee no interruption; but may proceed to ſettle the Tonnage, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Corinton.</hi>
+                  </speaker>
+                  <p>I hope we ſhall ſpeake here as we may ſpeake in Hea<g ref="char:EOLhyphen"/>ven, and doe our duties; and let no feare divert us.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Walter.</hi>
+                  </speaker>
+                  <p>It is not ſo few as five hundred Merchants are threat<g ref="char:EOLhyphen"/>ned in this.</p>
+               </sp>
+               <p>Sir <hi>Robert Phillippes</hi> moveth we may goe to the King, and ſatisfie him of theſe interruptions.</p>
+               <sp>
+                  <speaker>M. <hi>Noye.</hi>
+                  </speaker>
+                  <p>We cannot ſafely give, unleſſe we be in poſſeſſion, and the proceedings in the Exchequer nullified; and informa<g ref="char:EOLhyphen"/>tion in the Starre-Chamber, and the annexion to the Pe<g ref="char:EOLhyphen"/>tition of Right, and other Records; I will not give any voyce to this, unleſſe theſe things be made void: For it will not be a gift, but a confirmation; neither will I give, unleſſe theſe interruptions, and a Deciaration in the Bill, that the King hath no right, but by our free gift: If it will not be accepted as it is fit, wee cannot helpe it; if it the Kings already, as by theſe Records, we need not give it.</p>
+               </sp>
+               <p>Maſter <hi>Selden</hi> ſecondeth the motion of fending a meſ<g ref="char:EOLhyphen"/>ſage to the Exchequer; declareth a preſident of a meſſage
+<pb n="44" facs="tcp:124478:25"/>ſent into the Chancery for ſtay of proceedings in a cauſe, and it was obtained; and what Anſwer ſoever the Judges returne, it cannot prejudice us: The Law ſpeakes by Re<g ref="char:EOLhyphen"/>cord, and if thoſe Records remaine, it will to poſterity explaine the Law.</p>
+               <sp>
+                  <speaker>M. <hi>Littletor.</hi>
+                  </speaker>
+                  <p>For the Right, there is no Lawyer ſo ignorant to con<g ref="char:EOLhyphen"/>ceive it, nor any Judge of the Land to affirme; it is againſt giving to the King, or going on with the Bill: In this caſe a man cannot be put to a Petition of Right, but ſhall reco<g ref="char:EOLhyphen"/>ver without Petition.</p>
+               </sp>
+               <p>Ordered a meſſage ſhall bee ſent to the Court of the Exchequer: That whereas certaine goods of the Mer<g ref="char:EOLhyphen"/>chants have beene ſtayed by injunctions from that Court by falſe Affidavit; and that upon examination, the Cuſto<g ref="char:EOLhyphen"/>mers that made the Affidavits, have confeſſed that the goods were ſtayed onely for duties contained in the book of Rates; That therefore that Court would make voyde the Orders and Affidavits in this buſineſſe.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday the</hi> 13. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Petition againſt one <hi>Burges</hi> a Prieſt, who was here complained of the laſt Seſſions, ſome new Articles againſt him, that hee could not get a coppy of his Articles out of the Houſe, untill hee was faine to get one to counterfeit himſelfe a Puritan to get the ſame, and other new miſ<g ref="char:EOLhyphen"/>demeanours.</p>
+               <p>Hee is ordered to be ſent for.</p>
+               <p>Sir <hi>Iohn Elliott</hi> moveth for Priviledge of the Mer<g ref="char:EOLhyphen"/>chants.</p>
+               <p>Order is, if any man have a complaint depending here, ſhall bee priviledged in his perſon, not freed from ſuits.</p>
+               <p>A Committee is to conſider what priviledge is to bee
+<pb n="45" facs="tcp:124478:25"/>allowed any man that hath any cauſe depending here, in the meane time intimation ſhall bee given to my Lord Keeper, that no Attachment ſhall goe forth againſt the Merchants.</p>
+               <p>The Chancellour of the Dutchie reported the meſſage to the Exchequer Court, That the Treaſurer and the Ba<g ref="char:EOLhyphen"/>rons will forthwith take the ſame into conſideration, and returne an anſwer.</p>
+               <p>Ordered, that Maſter Secretary <hi>Cooke</hi> ſhall take care, that intimation ſhall be given to the Citie about the Faſt.</p>
+               <p>Doctor <hi>Moore</hi> called in, ſaith, he was referred to the Biſhop of <hi>Winchester</hi> to bee cenſured for a Sermon prea<g ref="char:EOLhyphen"/>ched by him; the Biſhop, he had heard him preach, and deliver many prettie paſſages againſt the Papiſts, which pleaſed King <hi>Iames,</hi> but he muſt not doe ſo now. That you have a Brother that preacheth againſt bowing at the holy name of Jeſus, and of bowing to the high Altar; and that the Communion Tables ſtood as in Ale-houſes, but he would have them ſet as high Altars: Doctor <hi>Moore</hi> is to deliver theſe things in writing to morrow morning.</p>
+               <sp>
+                  <speaker>At the Committee for Religion.</speaker>
+                  <p>If wee now ſpeake not, wee may for ever hold our peace; when beſides the Queenes Maſſe there are two Maſſes daily in the Queenes Court, ſo that it is growne ordinary with the out-facing Jeſuites, and common in diſcourſe; will you goe to Maſſe, or, have you beene at Maſſe at <hi>Somerſet</hi> houſe: There comming five hundred at a time from Maſſe.</p>
+                  <p>We deſire it may bee knowne by what authority the Jeſuites lately in Newgate were releaſed.</p>
+                  <p>M. <hi>Coriton</hi> doubts not but his Majeſties intention was good, in the Declaration lately publiſhed; but I conceive it will bee made uſe of, onely to our diſadvantage: That therefore the Declaration may bee taken into conſide<g ref="char:EOLhyphen"/>ration.</p>
+                  <pb n="46" facs="tcp:124478:26"/>
+                  <p> Sir <hi>Richard Gravenor</hi> repents the proceedings of this Houſe againſt Popery the laſt Seſſion, and what <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hath beene therein.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Richard Gravenor.</speaker>
+                  <p>Maſter <hi>Pymme,</hi> In this great buſineſſe concerning Re<g ref="char:EOLhyphen"/>ligion, and the ſtaying of Execution of the Lawes againſt Recuſants, it will much conduce to our purpoſe and for<g ref="char:EOLhyphen"/>ward our Reſolutions, to caſt backe our eyes to ſee what was done the laſt Seſſion: You may remember that a<g ref="char:EOLhyphen"/>mongſt many other buſineſſes of weight, wee tooke to heart the decay of Religion; we ſought after the preſer<g ref="char:EOLhyphen"/>vation thereof, and how to maintaine it in its owne pu<g ref="char:EOLhyphen"/>rity: Wee found, that of late yeares it had beene much wounded, by heartning of Papiſts, by conferring offices upon Recuſants. Wee ſummoned our judgements, and imployed our beſt cares and paines, for ſtopping the cur<g ref="char:EOLhyphen"/>rent of Popery, which by ſuch meanes like a Deluge, came flowing upon us: And well did it befit the profit of this Houſe to be ſo zealous for the proſperity of that which ought to be ſo deare to every good mans ſoule, and ſo pretious in their eyes; and this wee attempted by theſe and the like ſtoppes. Firſt, by that religious Petition; wherein it pleaſed the Lords ſo readily to joyne with us. Secondly, by framing a Bill againſt Recuſants, which paſ<g ref="char:EOLhyphen"/>ſed both Houſes, whereby his Majeſty had beene much enriched, better enabled to compaſſe his due from them; and to avoid their deceits, defrauding him thereof. Third<g ref="char:EOLhyphen"/>ly, by enforming him of the numbers and particulars; and by petitioning him to remove all Papiſts and Popiſhly af<g ref="char:EOLhyphen"/>fected from the Court, from places of Truſt, from places of Power. Fourthly, by examining the dangers and in<g ref="char:EOLhyphen"/>conveniences of thoſe late Commiſſions, and inſtructions granted forth for the compounding with Recuſants for their eſtates and forfeitures. Fiftly, by framing a charge
+<pb n="47" facs="tcp:124478:26"/>to uſher up Maſter <hi>Montague</hi> to the Lords, not to his ſeat amongſt the Reverend ſociety of Biſhops, but to the Barre, as an offendor againſt that Houſe, this and the whole Church of God.</p>
+                  <p>But what good hath this our zeale brought to Religion? what profit to the Church, we all know; and with thank<g ref="char:EOLhyphen"/>fulneſſe acknowledge, That his Majeſty gave a moſt gra<g ref="char:EOLhyphen"/>cious and pious anſwer to our Petition of Religion; and to ſome particulars, as fully as wee could deſire; which raiſed our hopes to the expectation of much good, and ſome hath followed; for it is true (Maſter Speaker) that the promiſed Proclamation to command Judges, and o<g ref="char:EOLhyphen"/>ther Miniſters of Juſtice, to put the Lawes in execution againſt Recuſants, their Prieſts and Jeſuites, is now ex<g ref="char:EOLhyphen"/>tant; which yet ſeemes to me to have beene ſo long kept by ſome back-friends to Religion: and I am induced to thinke thus for theſe Reaſons.</p>
+                  <p>My firſt Reaſon I draw from common fame, it being generally reported, that in ſtead of life and motion to the Lawes in force againſt Recuſants, the Judges had in charge before the laſt Circuite, to deale ſparingly with them.</p>
+                  <p>My ſecond Reaſon I draw from the time, when this Proclamation came forth, which was five weekes after the ending of the Seſſions, when ſome of the Circuites were ended, or ſo neare concluſion, that the Judges could take little or no notice thereof.</p>
+                  <p>And Thirdly, from conſideration of a former Procla<g ref="char:EOLhyphen"/>mation dated the 7. of <hi>Iuly,</hi> which though that paſſed not the Seale, yet it did the Preſſe; and in my poore opi<g ref="char:EOLhyphen"/>nion, would never have gone ſo farre, (knowing the re<g ref="char:EOLhyphen"/>ſolution of Counſells to be more certaine) had not ſome men hoped to have prevented the latter, by procuring the former as ſatisfaction, which falls farre ſhort of his Maje<g ref="char:EOLhyphen"/>ſties pious intentions, expreſſed in that his religious An<g ref="char:EOLhyphen"/>ſwer: And if with reverence I may ſpeake my humble
+<pb n="48" facs="tcp:124478:27"/>thoughts, they doe both of them in concluſion too much encourage the worſt of ſubjects to hope for his Majeſties beſt favour too fairely invite them to compound for their forfeitures; which courſe this Houſe was bold to ſtile little leſſe then a Tolleration. Againe, is the courſe of Recu<g ref="char:EOLhyphen"/>ſants as yet reſtrained from the Court? Nay, doe they not ſince our Receſſe frequent it with more confidence and greater alacrity, doe not their hopes daily increaſe, and themſelves grow more inſolent; their feares ended with the Seſſions. Is the promiſed wrath as yet appoin<g ref="char:EOLhyphen"/>ted to keepe them from Embaſſadours Houſes. Had the Judges in charge to informe themſelves in their laſt Cir<g ref="char:EOLhyphen"/>cuites, and (after their returne) his Majeſty of all ſuch Pa<g ref="char:EOLhyphen"/>piſts and Popiſhly affected, as they ſhall finde to bee in authority; I have not yet heard it, and to me thoſe are all the knowne effects of that Religious Petition. Next take notice of the abortion of that neceſſary Bill againſt Recu<g ref="char:EOLhyphen"/>ſants, which when wee hoped would have received life and perfection by the Royall aſſent, periſhed in Embrion; ſuddenly vaniſht as being too cruell, too mercifull: Con<g ref="char:EOLhyphen"/>ſider what fruit wee have reaped from that Petition and Information, whereby we let his Majeſty know the par<g ref="char:EOLhyphen"/>ticulars of ſuch Papiſts and Popiſhly affected, as were in ſuch Countey, in Commiſſion of the peace of Lieutenan<g ref="char:EOLhyphen"/>cie, &amp;c. Are any of them ſince remooved: Nay, it is well if their numbers bee not encreaſed. Oh Maſter <hi>Pymme,</hi> this breakes the heart; if God be God, let us fol<g ref="char:EOLhyphen"/>low him: And if Baal be God, let us follow him, and no longer hault betweene two opinions; for whilſt wee are thus careleſſe in ſtanding for God, that wee dare ſcarce owne our owne Religion: Is it any marvell that God eſtrangeth himſelfe, and will not owne us? and by too woefull experience wee have cauſe to ſuſpect, ſince wee finde he goes not out with our Armies, ſince ſo ill ſucceſſe attends all our actions; Wee have not yet made our peace with God. And Maſter <hi>Pymme,</hi> to theſe griefes and diſ<g ref="char:EOLhyphen"/>couragements,
+<pb n="49" facs="tcp:124478:27"/>I finde an addition of that nature, that threatens very ruine and deſolation, if not diſſolution of Religion in this Land, (unleſſe God himſelfe take his own cauſe into his own hand.) And that is the countenancing and preferring of a plotting, undermining, and dangerous ſect of upſtart Divines, when Arminians ſhall be grac't &amp; preferred before honeſter men, when ſuch deſperate Di<g ref="char:EOLhyphen"/>vines as have fired a part of Chriſtendome, almoſt ruined our neighbours, kindled their fire-brands, and caſt their dangerous ſparkes abroad in our Church, ſhall be encou<g ref="char:EOLhyphen"/>raged to goe on in planting their damnable doctrines and poſitions which already have taken too deep footing, too fact rooting in our Univerſities, and many other parts of this Land: You remember Sir, what care and paines this Houſe tooke (as a matter of great conſequence) to frame a charge againſt Maſter <hi>Mouniague,</hi> which was ready with the firſt oppertunity to have tranſmitted him to the Lords; but thoſe many interruptions we had, gave brea<g ref="char:EOLhyphen"/>king to that as to many other buſineſſes of weight; yet was this man ſhortly after the ending of the Seſſions, dig<g ref="char:EOLhyphen"/>nified with the ſacred title of Biſhop; and Biſhop of the See, wherein his Predeceſſour (a Grave Divine, and Or<g ref="char:EOLhyphen"/>thodoxe Prelate,) had laboured by his pen and directi<g ref="char:EOLhyphen"/>ons, to ſtrangle thoſe errours, and to confute Maſter <hi>Mountague,</hi> whoſe ready way to obtaine a Biſhopricke, is to undermine Religion, and ſet the Church in a com<g ref="char:EOLhyphen"/>buſtion. Another alſo of his owne profeſſion, little better then himſelfe, I meane time-pleaſing <hi>Mannering,</hi> hath al<g ref="char:EOLhyphen"/>ſo taſted extraordinary favour; This man attempted to make his holy function a meanes to ſeduce the Kings con<g ref="char:EOLhyphen"/>ſcience, to miſguide his judgement, to dis joynt his affe<g ref="char:EOLhyphen"/>ctions from his people; to avert his minde from calling a Parliament. The particulars of his damnable doctrine are yet freſh in your memories: What could a man have done worſe; for hereby he did as much as in him lay, violently to breake in peeces that coard, to wreſt in ſunder that
+<pb n="50" facs="tcp:124478:28"/>chaine, which linkes, and tyes, and unites the hearts and affections of the Prince &amp; people together: verily he that ſhall goe about thus to ſeduce or corrupt a Prince, deſerves to be hated of all men; as much as thoſe that attempt to poyſon a publique ſpring or fountaine, whereof all drinke; for which offence of his hee received a juſt, but moderate cenſures: one particular whereof was, that he ſhould be diſabled from holding any Eccleſiaſticall dignity in the Church. And although it bee confeſſed that the Doctor juſtly brought upon himſelfe the cenſure of Parliament, yet was this man after our riſing releaſed from his impri<g ref="char:EOLhyphen"/>ſonment, reported to have the honour to kiſſe the Kings hand, obtained his Pardon in Folio, preferred to a rich Living; and if fame ſay true, cheriſhed with aſſured hopes of future dignity in the Church: If theſe bee ſteppes to Church preferment, God be mercifull to thoſe Churches which ſhall fall under the government and feeding of ſuch a Clergie. Thus, Maſter <hi>Pymme,</hi> you ſee the iſſue of our good endeavour vaniſht into ſmoake; what ſhould be the reaſons, I know not; But I may well gneſſe, it comes by the like practiſes as were uſed in King <hi>Iames</hi> his time; for then had we the like gracious Anſwers to Petitions of Religion, the like Proclamations, the like Declarations, and like Commands to put Lawes in execution againſt Recuſants, and yet little done; being prevented by ſecret directions and commands of ſome eminent Miniſters of State, which I am able to juſtifie, by a letter under their hands, which I have now about me: And I wiſh that all ſuch as have notice of any ſuch private letters as have beene ſent for the ſtay of execution of thoſe Lawes, would give this Houſe knowledge thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>If ever were a neceſſity of dealing plainly and freely, this is the time; there is an admiſſion of Prieſts and Je<g ref="char:EOLhyphen"/>ſuites,
+<pb n="51" facs="tcp:124478:28"/>as if it were in <hi>Spaine</hi> or <hi>France:</hi> This encreaſe of Papiſts, is by connivance of perſons in Authority; Nine hundred and forty perſons in houſes of Religion, being <hi>Engliſh, Iriſh,</hi> and <hi>Scots,</hi> in the Netherlands, maintained by the Papiſts of <hi>England;</hi> And of this I ſhall deliver the particulars, that wee may frame a Remonſtrance to the King: That unleſſe there be ſome better performance of his Majeſties ſo many Anſwers to ſo many Petitions, our Religion will be paſt recovery.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Coriton.</hi>
+                  </speaker>
+                  <p>That thoſe Papiſts by Lawes, or Acts of State, may be removed from their offices; which wee have juſt cauſe to ſuſpect.</p>
+               </sp>
+               <p>Maſter <hi>Selden</hi> moveth things may be debated in order; and firſt for the releaſing the Jeſuites that were arraigned at Newgate, whereof one was condemned; they were ten in number which were Prieſts, who had a Colledge here in <hi>London</hi> about <hi>Clarkenwell,</hi> and theſe men could not attempt theſe Acts of boldneſſe, but that they have great countenancers.</p>
+               <sp>
+                  <speaker>Secretary Cooke.</speaker>
+                  <p>That a Miniſter of State, which is ſaid to be himſelfe, having notice of theſe ten; and this Colledge intended to be kept at <hi>Clarkenwell.</hi>
+                  </p>
+                  <p>That it is plaine there was a place appointed for this Colledge, and Orders and Reliques prepared: This Mi<g ref="char:EOLhyphen"/>niſter made the King acquainted with it, and I ſhould not doe my duty; if I ſhould not declare how much his Ma<g ref="char:EOLhyphen"/>jeſtie diſliked it: His Majeſtie referres it to the eſpeciall care of the Lords of the Councell, who examined the ſame; ſent theſe ten perſons to Newgate, and gave order to Maſter Attorney to proſecute the Law againſt them.</p>
+                  <pb n="52" facs="tcp:124478:29"/>
+                  <p> That this Colledge was firſt at <hi>Edmonton,</hi> removed from thence to <hi>Camberwell,</hi> and thence to <hi>Clarkenwell.</hi>
+                  </p>
+                  <p>Ordered, that all the Knights and Burgeſſes of the Houſe, ſhall to morrow morning declare their knowledge what Letters or other hindrances have beene for the ſtay<g ref="char:EOLhyphen"/>ing of proceedings againſt Recuſants.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Long.</hi>
+                  </speaker>
+                  <p>A Juſtice of Peace, who is ſaid to underſtand much in the buſineſſe of the Colledge of Jeſuites at <hi>Clarkenwell,</hi> is ſent for and examined, ſaith hee, by the appointment of Maſter Secretary <hi>Cooke,</hi> apprehended thoſe perſons, and tooke their Examinations; and ſaith further, that he heard they were delivered out of Newgate, by order from Ma<g ref="char:EOLhyphen"/>ſter Attorney. That Maſter <hi>Middlemore</hi> a generall Sollici<g ref="char:EOLhyphen"/>tour for the Prieſts, hired this houſe for the Lord of <hi>Shrewſ<g ref="char:EOLhyphen"/>bury,</hi> a Papiſt; and that there are divers Bookes of Ac<g ref="char:EOLhyphen"/>compts, of Receipts, and Disburſements, to the value of three hundred pounds <hi>per annum,</hi> with divers Recuſants names, who allowed towards the maintenance of this Colledge: and theſe bookes and papers are in the hands of Maſter Secretary <hi>Cooke.</hi>
+                  </p>
+               </sp>
+               <p>Secretary <hi>Cooke</hi> ſaith, hee cannot ſo amply declare the truth of the proceedings herein, untill that he have leave from his Majeſty.</p>
+               <p>One <hi>Croſſe</hi> a Purſevant is to be examined in this, who likewiſe ſaith, he can diſcover divers ſtoppings of the exe<g ref="char:EOLhyphen"/>cution of Lawes againſt Recuſants.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Saterday the</hi> 14. <hi>of February. Anno</hi> 1628.</head>
+               <p>A complaint againſt the Lord <hi>Lambert,</hi> a Baronet of <hi>Ireland,</hi> and a member of this Houſe, who (being a Col<g ref="char:EOLhyphen"/>lonel of Souldiers in <hi>Middleborow</hi>) hath impoſed 4<hi rend="sup">d.</hi> upon every Souldier towards his Officers charges, and the Pe<g ref="char:EOLhyphen"/>titioner
+<pb n="53" facs="tcp:124478:29"/>for refuſing to pay, was ſet in the ſtockes, and af<g ref="char:EOLhyphen"/>ter by the Lord <hi>Lamberi</hi> commanded to a Priſon.</p>
+               <p>It is ordered that the Lord <hi>Lambert</hi> be ſent for to an<g ref="char:EOLhyphen"/>ſwer this.</p>
+               <p>Sir <hi>Iohn Ipſley</hi> deſireth leave to anſwer a complaint that is againſt him in the Lords Houſe.</p>
+               <sp>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>That the uſe was, and citeth a preſident, that no Com<g ref="char:EOLhyphen"/>moner could bee called to the Lords Houſe; but it will trench much to the diſadvantage of the priviledge of this Houſe; and untill 18. <hi>Iacobi,</hi> there was never preſident to the contrary: that therefore this may be conſidered of by a ſelect Committee.</p>
+               </sp>
+               <p>Ordered, that Sir <hi>Iohn Ipſley</hi> ſhall not have leave.</p>
+               <p>Maſter Chancellour of the Dutchie ſtiffely ſecondeth the motion of Maſter <hi>Selden.</hi>
+               </p>
+               <sp>
+                  <speaker>Maſter Secretary Cooke.</speaker>
+                  <p>I am as carefull to maintaine a good correſpondencie with the Lords, as any man; but connivances in this kinde may overthrow the fundamentall Rights and Liberties of this Houſe: Let it be therefore ſeriouſly conſidered of, for this not onely concerneth the Right of this Houſe, but the Liberty of the whole Kingdome or Common-wealth.</p>
+               </sp>
+               <p>Ordered a ſpeciall ſelect Committee ſhall bee appoin<g ref="char:EOLhyphen"/>ted to confider of this.</p>
+               <p>Maſter Chancellour of the Dutchie delivereth an an<g ref="char:EOLhyphen"/>ſwer from the Barons of the Exchequer, as followeth.</p>
+               <floatingText xml:lang="eng" type="answer">
+                  <body>
+                     <p>Whereas the Honourable Houſe of Commons, by or<g ref="char:EOLhyphen"/>der this twelfth of this inſtant <hi>February,</hi> have appointed that notice ſhould be given to the Lord Treaſurer, Chan<g ref="char:EOLhyphen"/>cellour, and Barons of the Exchequer, for a Declaration made by Sir <hi>Iohn Wolſtenholme, Abraham Dawes,</hi> and
+<pb n="54" facs="tcp:124478:30"/>
+                        <hi>Richard Carmarden,</hi> then in the ſaid Houſe of Commons, of the goods that the Merchants brought into the Kings Store-houſe, and laid up there for his Majeſties uſe, were detained onely as they conceive for the duty of Tonnage and Poundage; and other ſummes compriſed in the books of Rates, which notice was given, to the end the ſaid Court of Exchequer might further proceed therein, as to Juſtice ſhould appertaine. Now the Lord Treaſurer, Chancellour, and Barons, out of their due reſpect to that Honourable Houſe; and for their ſatisfaction doe ſignifie, that by the orders and injunctions of the ſaid Court of Ex<g ref="char:EOLhyphen"/>chequer, they did not determine, nor any wayes trench upon the right of Tonnage and Poundage; and ſo they did declare openly in Court at the making of theſe or<g ref="char:EOLhyphen"/>ders: Neither did they by the ſaid Orders or Injuncti<g ref="char:EOLhyphen"/>ons, barre the owners of thoſe goods, to ſue for the ſame in a lawfull courſe. But whereas the ſaid owners endea<g ref="char:EOLhyphen"/>voured to take thoſe goods out of the Kings actuall poſſeſ<g ref="char:EOLhyphen"/>ſion, by Writs or Plaints of Replevin, which was no law<g ref="char:EOLhyphen"/>full Action; or courſe in the Kings caſe, nor agreeable to his Regall prerogative: Therefore the ſaid Court of Ex<g ref="char:EOLhyphen"/>chequer, being the Court for ordering the Kings Reve<g ref="char:EOLhyphen"/>nue, did by thoſe Orders and Injunctions ſtay thoſe ſuites; and did fully declare by the ſaid Orders, that the owners if they conceived themſelves wronged, might take ſuch remedy as the Law alloweth.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Richard Weston.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Waller.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Trevers.</hi>
+                              </item>
+                              <item>
+                                 <hi>Lo: Newburgh.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Denham.</hi>
+                              </item>
+                              <item>
+                                 <hi>George Vernon.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <sp>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>We looked for ſatisfaction, but now you ſee a juſtifi<g ref="char:EOLhyphen"/>cation
+<pb n="55" facs="tcp:124478:30"/>of their Actions; I therefore deſire wee may now proceed to conſider of their proceedings, and whether ever the Court of Exchequer held this courſe before the ſtaying of Replevies; and whether this hath beene done by the Regall prerogative of the King in his Court of Exchequer.</p>
+               </sp>
+               <p>Ordered, that a ſelect Committee of Lawyers and Chequer-men ſhall take this into hand.</p>
+               <sp>
+                  <speaker>M. <hi>Selder.</hi>
+                  </speaker>
+                  <p>We have delayed the proceedings with the Cuſtomers expecting ſome good ſucceſſe from the Exchequer; but finding it otherwiſe, I deſire the Cuſtomers may be called to the Barre on Monday next, which is ordered at the Committee of Religion.</p>
+               </sp>
+               <p>Sir <hi>Thomas Hobby</hi> reported from the Committee (for the Examination of the Keeper and Clerke of Newgate concerning the Prieſts, there being a Warrant under Ma<g ref="char:EOLhyphen"/>ſter Attornies hand for the delivery of theſe perſons.</p>
+               <p>A Warrant under the Lord Chiefe Juſtices hand, accor<g ref="char:EOLhyphen"/>ding to a Letter which hee received from the Lord of <hi>Dorſet,</hi> ſignifying it was his Majeſties pleaſure, that the Prieſts condemned ſhould bee reprieved. Another War<g ref="char:EOLhyphen"/>rant under Maſter Attornies hand, in the Kings name, to releaſe the nine other perſons.</p>
+               <floatingText xml:lang="eng" type="petition">
+                  <body>
+                     <head>
+                        <hi>The Petition of the Lords to his Majeſtie: Preſented at</hi> White-Hall <hi>the</hi> 24. <hi>of February.</hi> 1628.</head>
+                     <p>In all humility ſheweth unto your moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, your ever loyall Subjects, the Lords Spirituall and Temporall, now in Parliament aſſembled; That whereas the Peeres and Nobilities of this your Realme of <hi>England,</hi> have heretofore uſed in curteſie to affoord precedencie,
+<pb n="56" facs="tcp:124478:31"/>according to their ſeverall degrees, unto ſuch of the No<g ref="char:EOLhyphen"/>bility of <hi>Scotland</hi> and <hi>Ireland;</hi> and being in title of Ho<g ref="char:EOLhyphen"/>nour above them, have upon occaſion reſorted hither; and remaining here in your Majeſties ſervice, which we are moſt willing ſhould be ſtill obſerved, as a Civilitie tend<g ref="char:EOLhyphen"/>ing to the great honour of our Nation.</p>
+                     <p>Now divers of your naturall borne Subjects of this Kingdome, where both themſelves and their families doe reſide, and have their chiefeſt eſtates and poſſeſſions amongſt us; having of late beene created ſome Barons, ſome Viſcounts, and ſome Earles, within theſe your King<g ref="char:EOLhyphen"/>domes of <hi>Scotland</hi> and <hi>Ireland,</hi> doe by reaſon claime as of right to take place, and have precedencie of the Peeres and Nobilitie of <hi>England,</hi> and their children within this Realme, which wee doe conceive doth not belong unto them by any grant from your Majeſtie; and tends both to the diſſervice and prejudice of your Majeſtie and your Realme, and to the great diſparagement of your <hi>Engliſh</hi> Nobilitie, as by the Reaſons hereunto annexed doth ap<g ref="char:EOLhyphen"/>peare.</p>
+                     <p>We therefore beſeech your moſt Excellent Majeſty, of whoſe tender care to preſerve the ancient honour and dignitie of your Nobilitie we are throughly perſwaded, that your Majeſties wiſedome and goodneſſe will be plea<g ref="char:EOLhyphen"/>ſed according to the examples of the beſt Princes and times upon the conſiderations of the manifold inconveni<g ref="char:EOLhyphen"/>ences, which practice and obſervation hath brought to light, being repreſented to your Majeſtie by the neareſt body of honour unto you, and nearelieſt concerned in this, and offered with as much faith and humility as they can deviſe, for the avoyding of all debate and contention; which upon this occaſion may ariſe, either for the preſent or future; that ſome ſuch courſe and order may be timely ſetled therein by your Princely wiſedome, and that there<g ref="char:EOLhyphen"/>by the inconveniences of your Majeſties ſervice might bee prevented; and that the prejudice and diſparage<g ref="char:EOLhyphen"/>ment
+<pb n="57" facs="tcp:124478:31"/>of your Peeres and Nobilitie of this Kingdome may bee redreſſed.</p>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="reasons">
+                  <body>
+                     <head>
+                        <hi>Reaſons delivered to the King upon the Petition the</hi> 17. <hi>of February. Anno</hi> 1628.</head>
+                     <p>We held it to be new and not warranted by any anci<g ref="char:EOLhyphen"/>ent preſidents, that ſubjects of this Kingdome, whoſe habitations, eſtates, and poſſeſſions, are principally with<g ref="char:EOLhyphen"/>in this your Majeſties Realme, ſhould have titles of ho<g ref="char:EOLhyphen"/>nour in other Kingdomes, where they have ſmall or no eſtates of aboade: That it may be the cauſe of great diſ<g ref="char:EOLhyphen"/>contentments to your Majeſties ſubjects in <hi>Ireland,</hi> that ſuch a number of thoſe, who have no eſtate to oblige them to the defence of that Kingdome, ſhould have voy<g ref="char:EOLhyphen"/>ces in Parliament there to make Lawes: As alſo that may bee of great danger to the Countrey, if times of hazard ſhould come; which weighty conſideration hath wrought ſo farre with your Royall Predeceſſours, and the whole State, as an Act of Parliament was paſſed, which tooke away great eſtates of land in <hi>reland,</hi> from ſome of the no bleſt Families of this Kingdome, onely in contempla<g ref="char:EOLhyphen"/>tion of their want of Reſidencie: whereupon their lands might endanger the loſſe of that Kingdome.</p>
+                     <p>That it is of great diſſervice to your Majeſtie and this Countrey, that thoſe which live amongſt us ſhould by forreigne titles ſeeke to exempt themſelves from thoſe ſervices of truſt and charge, which others, as of good birth and eſtate here undergoe daily; whereby it happeneth that either perſons of good quality are more frequently burthened, or the charge falls upon them of meaner con<g ref="char:EOLhyphen"/>dition and leſſe ability, not without prejudice of the ſer<g ref="char:EOLhyphen"/>vice and diſcontentment of the ſubject that undergoe it; as alſo of loſſe to your Majeſty, and griefe to your ſub<g ref="char:EOLhyphen"/>jects, in thoſe places where the honour is given; that al<g ref="char:EOLhyphen"/>though they draw from your Majeſties coffers, creations
+<pb n="58" facs="tcp:124478:32"/>and money, yet they doe not helpe or aſſiſt them to any neceſſary charge or contribution.</p>
+                     <p>That it is conceived to be contrary to the fundamen<g ref="char:EOLhyphen"/>tall Lawes of this Kingdome, that any ſhould be inveſted with an hereditary honour, where he hath not an eſtate, both to oblige him and his, to the defence of that King<g ref="char:EOLhyphen"/>dome; and make himſelfe by that reſponſible to the Ju<g ref="char:EOLhyphen"/>ſtice of that place, where his perſon is priviledged, and of great griefe to your faithfull Nobility of this Realme; who have yeelded to no Nation in Civility, but in curteſie to ſtrangers.</p>
+                     <p>That they ſhould be diſturbed in thoſe rankes and de<g ref="char:EOLhyphen"/>grees which the grace of Princes grounded upon merits, long time have ſettled them in, by others of their owne Nation of meaner quality, in whom little cauſe appeares, but ambition to precede others without ground of merit, or eſtate to warrant it, in thoſe places where they have ſought Titles, it being a great diminution to your Nobility and their children, and the ancient Gentry of this King<g ref="char:EOLhyphen"/>dome.</p>
+                     <p>That Honour, both in the nature it ſelfe and practiſe of former times, being atchieved principally by vertue and deſert, and it being one of the chiefeſt markes by which the beſt of Princes make impreſſions thereof, and diſcend hereditarily in the moſt deſerving Families, which was by generous ſpirits eſteemed above all other rewards; We leave unto your Majeſties prudent conſideration, of how great inconveniencie it is, to alter or leſſen the value of the reward, which was of ſo much honour and no charge to your Majeſtie, and of ſo great contentment and eaſe to your Majeſties people, which may bee demonſtrated in many particulars, too long now to rehearſe.</p>
+                     <p>Further, we hold it no ſmall degree derogatorie, to the very foundation of Nobility it ſelfe, which is the ſtep and circle that compaſſeth your Royall Throne; that thoſe who beare a Title and claime a precedencie before many
+<pb n="59" facs="tcp:124478:32"/>of us, ſhould fall ſo low in the peoples eyes and eſteeme, as to be daily ſubject to Arreſts of their perſons and all o<g ref="char:EOLhyphen"/>ther circumſtances of diſreſpects, which your meaneſt ſubjects undergoe, being in the eye of the Law but Com<g ref="char:EOLhyphen"/>moners.</p>
+                     <p>To conclude, this our cauſe of griefe, being (in our opi<g ref="char:EOLhyphen"/>nion) the practiſe of it new, and unuſuall in the conſe<g ref="char:EOLhyphen"/>quence of it, not without danger and diſcontentment to your Realme and ſubjects of all degrees, in the nature of it, contrary to the foundation of the grounds of Honour laid in this Kingdome, and in the whole courſe of it bree<g ref="char:EOLhyphen"/>ding ill effects to the ſervice of your Majeſtie, and the publique, and diſ-value and contempt to Nobility it ſelfe, which is the degree interpoſed immediately betwixt your Majeſty and your people: Wee can no where ſo juſtly appeale as to your Majeſty (the fountaine of Ho<g ref="char:EOLhyphen"/>nour) for a timely remedy, againſt this great and grow<g ref="char:EOLhyphen"/>ing inconvenience, both for the preſent and future. And as your Majeſties Honour is equally diſcerned in this, with the intereſt of your Kingdomes and Subjects; ſo wee doubt not but it ſhall appeare to the world, that your Ma<g ref="char:EOLhyphen"/>jeſties gracious care to reduce and maintaine your Nobi<g ref="char:EOLhyphen"/>lity in their ancient luſtre, ſhall equally tend to your Ma<g ref="char:EOLhyphen"/>jeſties ſervice and happineſſe, and to our contentment.</p>
+                  </body>
+               </floatingText>
+               <sp>
+                  <speaker>Sir Nathaniel Rich.</speaker>
+                  <p>I am confident the grace of the King hath beene abu<g ref="char:EOLhyphen"/>ſed in this, that therefore the Privy Counſellours of the Houſe may know whether it was his Majeſties dire<g ref="char:EOLhyphen"/>ction.</p>
+               </sp>
+               <p>It is moved that Secretary <hi>Cooke</hi> muſt firſt declare his knowledge in this.</p>
+               <p>One <hi>Croſſe</hi> gave intimation, firſt of the perſons to the Secretary, <hi>Super totam materiam;</hi> It is evident that the Colledge at <hi>Clarkenwell</hi> is a Colledge of Jeſuites, holden under a forreigne ſupreame head.</p>
+               <pb n="60" facs="tcp:124478:33"/>
+               <p> Sir <hi>Francis Seymor</hi> taxeth Maſter Attornies affection and judgement in this, and alſo declareth continuall Let<g ref="char:EOLhyphen"/>ters from Maſter Attorney, in ſtay of proceedings againſt Recuſants: You ſee in this Houſe how ſleightly Maſter Attorney hath put over a buſineſſe of this weight.</p>
+               <sp>
+                  <speaker>M. <hi>Long.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Croſſe</hi> the Purſevant ſaith, there were eleven men in the Priſon, and the Keeper of that Priſon ſaith, they were delivered by Warrant from the Councell board.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>No man could finde a way on which to vent miſchiefe againſt the Church and State, ſo much as by protecting theſe men; that this may be fixed on that great Lord, the Lord of <hi>Dorſet,</hi> that hath I feare ſoyled his fingers too farre in this buſineſſe: And on Maſter Attorney, at whom I am ſorry to nominate ſo often in this caſe of Religion, in ſtopping of proceedings againſt Recuſants.</p>
+               </sp>
+               <p>Maſter Recorder is ordered to be ſent unto, to be exa<g ref="char:EOLhyphen"/>mined in this, rather then to bee ſent for; having formerly had the honour to ſit in the Chaire.</p>
+               <p>Secretary <hi>Cooke</hi> ſaith, we ſhall deſire the King (being mercifull in caſe of bloud) to give direction for the reprie<g ref="char:EOLhyphen"/>ving the condemned Prieſts.</p>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>I doubt not but when we ſhall declare the depth of this to his Majeſtie, but he will render them judgement that gave him advice herein.</p>
+               </sp>
+               <sp>
+                  <pb n="61" facs="tcp:124478:33"/>
+                  <speaker>Sir Nathaniel Rich.</speaker>
+                  <p>Theſe Jeſuites are bound by ſureties to anſwer further at Councell Board, I wiſh thoſe bonds may produce thoſe men, that by the examination of them, we might out with the whole pack of Benefactors and Countenancers.</p>
+               </sp>
+               <p>Maſter <hi>Long</hi> ſaith, that hee offering at the Seſſions the evidence by order from Maſter Attorney, the Lord chiefe Juſtice <hi>Richardſon</hi> interrupted him, and told him he muſt ſpeake to the point in iſſue, whether Prieſts or no Prieſts; and hereupon the Judges conſulted amongſt themſelves.</p>
+               <p>Maſter <hi>Selden</hi> ſaith, he was preſent at the Seſſions, and plaine Treaſon proved, and nothing done in it: The fur<g ref="char:EOLhyphen"/>ther examination of this is referred to a ſelect Com<g ref="char:EOLhyphen"/>mittee.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Monday the</hi> 16. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Petition of complaint againſt Sir <hi>Henry Martin,</hi> for the taking the goods of one <hi>Browne,</hi> who dyed inteſtate, to his owne private uſe.</p>
+               <sp>
+                  <speaker>Sir Henry Martin.</speaker>
+                  <p>If I prove not my ſelfe as cleare in this as Saint <hi>Iohn</hi> Baptiſt, let me be accounted a Jew.</p>
+               </sp>
+               <p>Referred to the Committee for courſe of Juſtice.</p>
+               <sp>
+                  <speaker>At the Committee for Religion. Master Strowde.</speaker>
+                  <p>That the Lord Chiefe Juſtice may be called to give ac<g ref="char:EOLhyphen"/>compt of his ſtay of Juſtice in the execution of the con<g ref="char:EOLhyphen"/>demned Jeſuite, which he ought to have done, though his Majeſtie ſignified his pleaſure to the contrary.</p>
+               </sp>
+               <sp>
+                  <pb n="62" facs="tcp:124478:34"/>
+                  <speaker>Chancellour of the Dutchie.</speaker>
+                  <p>That this was a thing ſo ordinary for a Chiefe Juſtice to doe in Queene <hi>Elizabeth</hi> and King <hi>Iames</hi> their time, as alſo a Declaration in Starre-Chamber, that all condem<g ref="char:EOLhyphen"/>ned Prieſts ſhould be ſent to the Caſtle at <hi>Wisbitch,</hi> and from thence, though the King had given no order for the Replevy, hee might have taken this Warrant for his pro<g ref="char:EOLhyphen"/>ceedings.</p>
+               </sp>
+               <p>Maſter <hi>Selden</hi> reported from the Committee the fur<g ref="char:EOLhyphen"/>ther examination of Maſter <hi>Long,</hi> concerning the pro<g ref="char:EOLhyphen"/>ceedings of Newgate againſt the Jeſuites; whereby it plainly appeareth, that the evidence tendered in Court at Newgate did plainly teſtifie theſe men to bee Prieſts; yet the Lord <hi>Richardſon</hi> did reject the ſame, againſt the ſentence of the reſt of the Judges and Juſtices preſent; whereby it is plaine, that he dealt under hand to the ſame Jeſuites.</p>
+               <p>Ordered, that two members ſhall bee ſent to each Judge that were preſent at the Seſſions at Newgate, who were ſaid to bee the Lord Chiefe Juſtice of the Kings Bench, the Chiefe Juſtice of the Common Pleas, Juſtice <hi>Whittlocke,</hi> Juſtice <hi>Iones,</hi> and Juſtice <hi>Crooke.</hi>
+               </p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Thurſday the</hi> 17. <hi>of February. Anno</hi> 1628.</head>
+               <p>Maſter <hi>Chambers</hi> preferred another Petition in com<g ref="char:EOLhyphen"/>plaint of a Warrant, newly proceeding from the Councell Board, for the ſtay of the Merchants goods, unleſſe they pay the duties that were due in King <hi>Iames</hi> his time.</p>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>You ſee as by the laſt anſwer from the Exchequer, the
+<pb n="63" facs="tcp:124478:34"/>Merchants were bound within that Court from all means of comming by their owne goods.</p>
+               </sp>
+               <p>It is ordered the Cuſtomers ſhall attend the Houſe on Thurſday; in the meane time it is referred to the former Committee.</p>
+               <p>Ordered a Committee of ſix to take all the names of the Faſt, and to meet at Church by eight of the clocke in the morning.</p>
+               <p>Ordered, that a Committee ſhall conſider of the ſpee<g ref="char:EOLhyphen"/>dieſt way to put the Merchants into poſſeſſion of their goods, without which it is conceived wee ſit here in vaine.</p>
+               <p>Sir <hi>Thomas Hobby</hi> reported from the Lord Chiefe Ju<g ref="char:EOLhyphen"/>ſtice <hi>Hide,</hi> That he doth not remember any papers ten<g ref="char:EOLhyphen"/>dered, by Maſter <hi>Long</hi> were rejected, or that he affirmed they were dangerous perſons, and a Colledge of Jeſuites: But howſoever Maſter <hi>Long</hi> tendered nothing to prove them ſo, but that he held divers papers in his hands.</p>
+               <p>Maſter <hi>Wansford</hi> reported from the Lord Chiefe Ju<g ref="char:EOLhyphen"/>ſtice <hi>Richardſon,</hi> who ſaid Maſter <hi>Long</hi> did diſcourſe of the place and Houſe, but did not preſſe the rending of the papers; neither doth hee know what were in the pa<g ref="char:EOLhyphen"/>pers; neither knew of any thing to prove the perſons Je<g ref="char:EOLhyphen"/>ſuites.</p>
+               <p>Sir <hi>Thomas Barrington</hi> delivereth the anſwer of Ju<g ref="char:EOLhyphen"/>ſtice <hi>Iones,</hi> who ſaith, there were ſome papers offered by Maſter <hi>Long,</hi> but hee knew not the contents thereof, nor the reaſon why they were refuſed; but hee came late for want of health, and the ſecond day was not there at all.</p>
+               <p>Sir <hi>Miles Fleetwood</hi> delivereth the Anſwer of Juſtice <hi>Whitlocke,</hi> who ſaid, hee came late, and therefore under<g ref="char:EOLhyphen"/>ſtood not the buſineſſe, and the ſecond day was not there at all.</p>
+               <p>The like was reported by Sir <hi>William Constable</hi> from Juſtice <hi>Crooke.</hi>
+               </p>
+               <pb n="64" facs="tcp:124478:35"/>
+               <p> Sir <hi>Thomas Barrington</hi> ſaith, although Juſtice <hi>Iones</hi> did not write the name of the Lord Chiefe Juſtice, yet in diſcourſe named him to be the man, that ſaid, the point in proofe is not whether they bee Prieſts or no Prieſts.</p>
+               <sp>
+                  <speaker>Sir Nathaniel Rich.</speaker>
+                  <p>Here is a charge of high nature on the Judges by Ma<g ref="char:EOLhyphen"/>ſter <hi>Long;</hi> that now Maſter <hi>Long</hi> may make his charge, or ſuffer for it; for there were witneſſes enough in the Court.</p>
+               </sp>
+               <p>Ordered Maſter <hi>Long</hi> to be here on Thurſday mor<g ref="char:EOLhyphen"/>ning.</p>
+               <p>Ordered, that the Juſtices about the Towne ſhall be re<g ref="char:EOLhyphen"/>quired to deliver in all the names of the Recuſants remai<g ref="char:EOLhyphen"/>ning about the Towne, and their conditions; and of what County they be.</p>
+               <p>It is ordered that the Gentlemen of the Innes of Court and Chancery, ſhall give in their knowledge what Recu<g ref="char:EOLhyphen"/>ſants are there.</p>
+               <sp>
+                  <speaker>Sir Iohn Stanhope.</speaker>
+                  <p>That the Court may give in the names of the Recuſants there, and likewiſe by what Warrant they bee about the Towne, and what publique charge of office any of theſe perſons have. Alſo what Prieſts and Jeſuites are in any Priſon in <hi>London</hi> for they are at liberty to goe ſometimes five miles to a Maſſe.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Wedneſday the</hi> 18. <hi>of February. Anno</hi> 1628.</head>
+               <p>A publique faſt was kept by this Houſe at <hi>Weſtminſter,</hi> where were three Sermons.</p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="65" facs="tcp:124478:35"/>
+               <head>
+                  <hi>Thurſday the</hi> 19. <hi>of February. Anno</hi> 1628.</head>
+               <sp>
+                  <speaker>Master Dawes.</speaker>
+                  <p>One of the Cuſtomers called in to anſwer the point of Priviledge, in taking Maſter <hi>Rolles</hi> goods, being a mem<g ref="char:EOLhyphen"/>ber of this Houſe; ſaith, hee tooke Maſter <hi>Rolles</hi> goods by vertue of a Commiſſion under the great Seale; and o<g ref="char:EOLhyphen"/>ther Warrants remaining in the hands of Sir <hi>Iohn Elliott,</hi> that he knew Maſter <hi>Rolles</hi> demanded his Priviledge, but hee did underſtand his Priviledge did onely extend to his perſon, not to his goods: Maſter <hi>Dawes</hi> further ſaith, he tooke thoſe goods for ſuch duties as were due in the time of King <hi>Iames,</hi> and that the King ſent for him on Sunday laſt, and commanded him to make no other anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Carmarthen.</hi>
+                  </speaker>
+                  <p>Another Cuſtomer called, ſaith, he knew Maſter <hi>Rolles</hi> to bee a Parliament man; and that hee did not finde any Parliament man exempted in their Commiſſion; and if all the body of the Houſe were in him, he would not de<g ref="char:EOLhyphen"/>liver the goods; If he ſaid he would not, it was becauſe he could not.</p>
+               </sp>
+               <p>Maſter <hi>Wansford</hi> moveth that the delinquency of theſe men may be declined for the preſent, and that wee may goe to the King by way of Remonſtrance; conſidering the matter from whence this doth ariſe: if it were a ſin<g ref="char:EOLhyphen"/>gle Priviledge, it were eaſily determined.</p>
+               <sp>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>If there be any neare the King that doe miſ-preſent our Actions, let the curſe light upon them, not upon us; and beleeve, it is high time to right our ſelves; and untill wee
+<pb n="66" facs="tcp:124478:36"/>vindicate our ſelves in this, it will bee in vaine to ſit here.</p>
+               </sp>
+               <p>Sir <hi>Nathaniel Rich</hi> moveth not to proceed in this, un<g ref="char:EOLhyphen"/>till it bee by a ſelect Committee conſidered; in reſpect the King himſelfe gave order to ſtay thoſe goods, though the goods of a Parliament man.</p>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>The heart bloud of the liberty of the Common-wealth receiveth life from the Priviledge of this Houſe.</p>
+               </sp>
+               <p>Reſolved by Queſtion, that this ſhall be preſently ra<g ref="char:EOLhyphen"/>ken into conſideration; and being conceived to be a bu<g ref="char:EOLhyphen"/>ſineſſe of great conſequence;</p>
+               <p>It is ordered, that the Houſe ſhall be diſſolved into a Committee for more freedome of debate.</p>
+               <p>Maſter <hi>Herbert</hi> in the Chaire of this Committee.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Friday the</hi> 20. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Petition of complaint of Conſpiracy of a mans life by the Lord Deputy of <hi>Ireland</hi> and others, to get the eſtate of the Petitioner to their owne uſe: Which is re<g ref="char:EOLhyphen"/>ferred to the Committee for courſe of Juſtice.</p>
+               <sp>
+                  <speaker>Sir Iohn Wolstenholme</speaker>
+                  <p>Another of the Cuſtomers called in, ſaith, hee was commanded from the King, that the goods were taken for duties, and no more, that he ſought not to farme the Cuſtomes, and told the King, being ſent for to him, that he was not willing to deale therein, untill the Parliament had granted the ſame.</p>
+               </sp>
+               <p>Maſter <hi>Selden</hi> conceiveth the caſe of theſe Cuſtomers, doe differ in the degrees of their offences: Firſt, for Maſter <hi>Wolstenholme;</hi> what ever he ſaith here, hee hath
+<pb n="67" facs="tcp:124478:36"/>often confeſſed, the goods were taken for Tonnage and Poundage; ſo that hee brake the Priviledge in taking the goods: ſo likewiſe in ſwearing one thing, and the contra<g ref="char:EOLhyphen"/>ry plainly appearing upon proofe, and his owne confeſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>Maſter <hi>Dawes</hi> his caſe differeth onely in that Sir <hi>Iohn Wolſtenholme</hi> is a Patternee, and <hi>Dawes</hi> onely a Share.</p>
+               <p>Maſter <hi>Carmarthens</hi> caſe differeth in ſaying, If all the Parliament were in him, hee would not deliver his goods.</p>
+               <p>Ordered, that <hi>Wolstenholmes</hi> caſe ſhall be firſt decided; and the point is, Whether by the Leafe Sir <hi>Iohn Wolsten<g ref="char:EOLhyphen"/>holme,</hi> having ſeized the goods, hath intereſt or no? or whether he be onely an accomptant to the King or not.</p>
+               <sp>
+                  <speaker>Master Glanvile.</speaker>
+                  <p>Here is a ſumme of money advanced, a Leafe granted for certaine yeares, a certaine Rent received; and though there be a Covenant to theſe men, that if there be loſſe, it ſhall be abated, yet that cannot take away their intereſt: the ſubſtance of the Affidavit made by the Cuſtomers in the Exchequer, is, That the goods of the Merchants ſei<g ref="char:EOLhyphen"/>ſed by them, and remaining in the Kings Store-houſe; were ſeized onely for duties to the King, mentioned in a Commiſſion made under the Kings Signet; and that themſelves (the Cuſtomers) had no intereſt, nor pre<g ref="char:EOLhyphen"/>tence of intereſt.</p>
+               </sp>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Saterday the</hi> 21. <hi>of February. Anno</hi> 1628.</head>
+               <p>A Petition by Maſter <hi>Thomas Symons,</hi> in further com<g ref="char:EOLhyphen"/>plaint of the Cuſtomers; and the two ſhillings ſix pence upon Currents granted to the Lord of <hi>Arundell,</hi> which is referred to the Committee for Merchants.</p>
+               <pb n="68" facs="tcp:124478:37"/>
+               <p> Sir <hi>Robert Pye</hi> ſaith, the Lord of <hi>Arundell</hi> hath delive<g ref="char:EOLhyphen"/>red in his Patent to the King two moneths ſince.</p>
+               <sp>
+                  <speaker>At the Committee for Merchants.</speaker>
+                  <p>Maſter <hi>Littleton</hi> argueth, whether a Member of the Houſe hath his goods priviledged upon a Prorogation, be<g ref="char:EOLhyphen"/>ing ſeiſed for the King.</p>
+                  <p>All Priviledge is allowed for the benefit of the Com<g ref="char:EOLhyphen"/>mon-wealth, and the Parliament priviledge is above any other; and the Parliament onely can decide priviledge of Parliament: not any other Judge or Court. That a man may not diſtraine for Rent in Parliament time, but for all Arrerages after the Parliament he may diſtraine: Hee is not to be impleaded in any action Perſonall, nor his goods ſeized in the Exchequer.</p>
+                  <p>A Record and Act of Parliament by Petition, that be<g ref="char:EOLhyphen"/>cauſe a ſervant of a Member of Parliament is in the Kings Royall protection, that it might be high Treaſon to kill a Parliament man, and the King anſwered which made it a Law. And for the Judges to determine Priviledge of Parliament, were to ſuper-head and make void the Law; for the Prorogation, the Priviledge ſtands good untill the day of Prorogation; notwithſtanding a Proclamation of new Prorogation: That the King is never ſo high in point of State as in the Parliament; citeth the caſe of Sir <hi>Robert Howard</hi> in the High Commiſſion.</p>
+                  <p>All Priviledges, unleſſe in Felonie, Treaſon, or breach of the Peace.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>That you ſee how faſt the Prerogative of the King doth trench upon the liberty of the Subject, and how hardly recovered: Citeth many Preſidents, wherein the goods of a Member of Parliament were priviledged from ſeizure
+<pb n="69" facs="tcp:124478:37"/>in the Exchequer the 19. <hi>Eliz.</hi> It was reſolved in Par<g ref="char:EOLhyphen"/>liament, that twenty dayes before, and twenty dayes af<g ref="char:EOLhyphen"/>ter, was the time of Priviledge.</p>
+               </sp>
+               <sp>
+                  <speaker>Chancellour of the Dutchie.</speaker>
+                  <p>That in this debate we may tye our ſelves to point of Law and Authority, not to points of Reaſon; and concei<g ref="char:EOLhyphen"/>veth that no Priviledge lyeth againſt the King in point of his duties.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Francis Seymor.</speaker>
+                  <p>I deſire it may be debated, whether this care doth con<g ref="char:EOLhyphen"/>cerne the King or no; for I conceive theſe Cuſtomers have not made good that there was any Right, onely Art uſed to entitle the King: I conceive it an high offence for any man to lay the ſcandall of every project upon the King.</p>
+               </sp>
+               <sp>
+                  <speaker>Master Glanvile.</speaker>
+                  <p>Here is a cunning Affidavit in the Exchequer to entitle the King: A meere cunning project, and an offence of an high nature, to ſhelter their projects under the com<g ref="char:EOLhyphen"/>mand of the Crowne.</p>
+               </sp>
+               <sp>
+                  <speaker>Secretary Cooke.</speaker>
+                  <p>The point in queſtion is not the Right of the Subject, but the Right of the Parliament Priviledge; and that in the caſe of Maſter <hi>Rolls:</hi> and this is only now in queſtion.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iohn Strangwage.</speaker>
+                  <p>I know no reaſon why wee ſhould draw a queſtion
+<pb n="70" facs="tcp:124478:38"/>upon our ſelves, which we need not; eſpecially between the King and us: I conceive it plaine, thoſe Cuſtomers tooke thoſe goods in their owne Right, not in the Kings; in this the Priviledge is plainly broken, wherein it is ea<g ref="char:EOLhyphen"/>ſily determined.</p>
+               </sp>
+               <sp>
+                  <speaker>Master Bankes.</speaker>
+                  <p>In this caſe there is no interpoſing of the Kings Right, and the King this Parliament hath declared as much; that the Courts of Weſtminſter doe grant twelve dayes privi<g ref="char:EOLhyphen"/>ledge to any man to informe his Councell, much more the Courts of Parliament are to have their priviledge: The Kings command cannot extend to authorize any man to break the Priviledge; no more then it will warrant an entry upon any mans Land, without proceſſe of Law.</p>
+               </sp>
+               <sp>
+                  <speaker>Master Sollicitour.</speaker>
+                  <p>If the King have no Right, how can he make a Leafe; then this pretended intereſt of the Cuſtomers muſt bee void: and therefore their goods muſt be taken not in their owne Right, but in the Right of the King.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Selden.</hi>
+                  </speaker>
+                  <p>If there were any Right, the pretended Right is in the Subject.
+<list>
+                        <item>1. Whether Priviledge in goods.</item>
+                        <item>2. Whether the Right were in the Cuſtomer onely.</item>
+                        <item>3. Whether Priviledge againſt the King.</item>
+                     </list>
+                  </p>
+                  <p>If the Lords have no Priviledge of Parliament for their goods, they have then no Priviledge at all; for they are priviledged in their perſons out of Parliament.</p>
+                  <p>For the point of Intereſt it is plaine, for no kinde of Covenant can alter Intereſt; and queſtionleſſe had the
+<pb n="71" facs="tcp:124478:38"/>caſe in the Exchequer appeared to the Barons, as it doth to us; they would never have proceeded as they did: if our goods may be ſeized into the Exchequer, bee it right or wrong; we had then as good have nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Nathaniel Rich.</speaker>
+                  <p>It was recorded the laſt Seſſion in the Lords Houſe, and citeth other Preſidents in this Houſe, that a ſervant of a member of Parliament, ought to have priviledge in his goods; decided by Queſtion, that a Parliament man ought to have priviledge of his goods.</p>
+               </sp>
+               <p>Maſter <hi>Noye</hi> ſaith, that theſe Cuſtomers had neither Commiſſion nor command to ſeize; therefore without doubt we may proceed ſafely to other Queſtions, that the Priviledge is broken by the Cuſtomers, without any rela<g ref="char:EOLhyphen"/>tion to any Commiſſion or command of the King.</p>
+               <p>Secretary <hi>Cooke</hi> ſaith, it is in the Commiſſion to ſeize; but the Commiſſion being read, it is not found to bee there.</p>
+               <p>Chancellour of the Dutchie ſaith, Maſter <hi>Dawes</hi> men<g ref="char:EOLhyphen"/>tioned, that hee ſeized thoſe by vertue of a Commiſſion; and other Warrants remaining in the hands of Sir <hi>Iohn Elliott:</hi> that therefore theſe Warrants may be ſeene, whe<g ref="char:EOLhyphen"/>ther there be not command to ſeize the goods.</p>
+               <sp>
+                  <speaker>Sir Nathaniel Rich.</speaker>
+                  <p>This dayes debate much rejoyceth me, eſpecially the motion made by Maſter <hi>Noye;</hi> whereby it is plaine, wee have a way open to goe to the Queſtion, (without rela<g ref="char:EOLhyphen"/>tion to the Kings Commiſſion or command,) and deſires it, in reſpect there appeares nothing before us that doth incumber the Queſtion.</p>
+               </sp>
+               <p>Chancellour of the Dutchie againe deſires theſe War<g ref="char:EOLhyphen"/>rants may bee looked into, before wee proceed to the Queſtion.</p>
+               <sp>
+                  <pb n="72" facs="tcp:124478:39"/>
+                  <speaker>M. <hi>Kirtor.</hi>
+                  </speaker>
+                  <p>Becauſe this Honourable Gentleman preſſeth this ſo farre, let it appeare with what judgement this Houſe hath proceeded.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Glanvile.</hi>
+                  </speaker>
+                  <p>I conſent theſe Warrants bee ſent for and read; but withall, if any thing ariſe that may produce any thing of ill conſequence, let it bee conſidered from whence it comes: The Privy Counſellours are contented with this motion.</p>
+                  <p>The Warrants being ſent for and read, it is plaine, there is no Warrant to ſeize.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>Kirton.</hi>
+                  </speaker>
+                  <p>If now there be any thing of doubt, I deſire thoſe Ho<g ref="char:EOLhyphen"/>nourable perſons to make their objections.</p>
+               </sp>
+               <sp>
+                  <speaker>Chancellour of the Dutchie.</speaker>
+                  <p>I rejoyce when I can goe to the Court, able to juſtifie your proceedings; I confeſſe I ſee nothing now, but that we may eaſily proceed to the Queſtion.</p>
+               </sp>
+               <p>Maſter Secretary <hi>Cooke</hi> ſaith as much: Maſter <hi>Hawke<g ref="char:EOLhyphen"/>well</hi> argueth againſt Priviledge in time of Prorogation.</p>
+               <p>Maſter <hi>Noye</hi> ſaith, hee had no doubt, but Priviledge was in force in time of Prorogation, untill he heard this Argument of Maſter <hi>Hawkwell,</hi> and ſaith hee hath heard nothing from him yet that doth alter his opinion; and citeth a Preſident: wherein the Lords Houſe hath this very Prorogation adjudged the Priviledge.</p>
+               <pb n="73" facs="tcp:124478:39"/>
+               <p> Maſter <hi>Hackwell</hi> ſaith, hee is glad to heare it ſo; and he is now of the ſame opinion.</p>
+               <p>Decided by Queſtion, that Maſter <hi>Rolles</hi> ought to have Priviledge of Parliament for his goods ſeized, 30. of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 35. <hi>Iacobi,</hi> and all ſince.</p>
+               <p>This Committee is adjourn'd untill Monday, and the Cuſtomers are to attend.</p>
+            </div>
+            <div type="days_proceedings">
+               <head>
+                  <hi>Monday the</hi> 23. <hi>of February. Anno</hi> 1628.</head>
+               <sp>
+                  <speaker>Sir Humphrey May.</speaker>
+                  <p>I will never ceaſe to give you the beſt advice I can: We all agree, A word is given, We have wine and oyle before us: If you goe to puniſh Delinquents, there is vineger in the wound; thinke of ſome courſe to have re<g ref="char:EOLhyphen"/>ſtitution.</p>
+               </sp>
+               <sp>
+                  <speaker>Sir Iohn Elliott.</speaker>
+                  <p>The Queſtion is, whether we ſhall goe to the reſtituti<g ref="char:EOLhyphen"/>on, or to the point of delinquency of breach of Parlia<g ref="char:EOLhyphen"/>ment, and other feares: I meet with this both here and elſe-where, take heed you fall not upon a rocke; I am confident that this will be ſome what difficult, were it not for the juſtice and goodneſſe of the King: when we doe that which is juſt, let there bee no feare or memory of breaches, and let us now goe to the delinquency of theſe men, and that is the way to procure ſatisfaction.</p>
+               </sp>
+               <sp>
+                  <speaker>Secretary Cooke.</speaker>
+                  <p>We laboured the laſt day to bring us to our end; and now we fall to this iſſue, to proceed to the delinquency of theſe men: our ground is, becauſe they have no com<g ref="char:EOLhyphen"/>mand from his Majeſty; I muſt ſpeake plaine Engliſh, his
+<pb n="74" facs="tcp:124478:40"/>Majeſty tooke notice of our labour laſt Saterday, to ſever the Act of the Cuſtomers from his Majeſties command. His Majeſty commanded me to tell you, that it concernes him in a high degree of Juſtice and Honour, that truth be not concealed; which is, what they did was his owne di<g ref="char:EOLhyphen"/>rect order, and command of the Councell Board, himſelfe being preſent: and therefore he will not have it divided from his Act.</p>
+               </sp>
+               <p>Report was made from the Grand Committee, that they tooke into their conſideration the violation of the li<g ref="char:EOLhyphen"/>berty of the Houſe by the Cuſtomers, and at laſt they re<g ref="char:EOLhyphen"/>ſolved that a Member of the Houſe ought to have privi<g ref="char:EOLhyphen"/>ledge of perſon and goods; and the command of his Ma<g ref="char:EOLhyphen"/>jeſtie is ſo great, that they leave it to the Houſe.</p>
+               <p>Secretary <hi>Cooke</hi> reported a meſſage and command from his Majeſty, and ſaid, that howſoever the Houſe laboured to ſever the Kings intereſt, His Majeſty thinkes that this diſtinction will not cleare his Honour, and he will not be drawne to doe that that may touch him; though others may make diſtinctions.</p>
+               <sp>
+                  <speaker>Sir Robert Phillippes.</speaker>
+                  <p>I had rather pray to God to direct us, then give any di<g ref="char:EOLhyphen"/>rection: Now the Kings Honour, Juſtice; and Govern<g ref="char:EOLhyphen"/>ment are preſented to us, and alſo the eſſentiall liberty of this Houſe; and are wee now fit for a debate? In the greateſt retirement our beſt thoughts are ſummoned to reſolve what to doe.</p>
+               </sp>
+               <p>Hereupon the Houſe was adjourn'd till Wedneſday next.</p>
+               <p>On Wedneſday the 25. of <hi>February,</hi> 1628. both Hou<g ref="char:EOLhyphen"/>ſes by his Majeſties command, were adjourn'd till Mon<g ref="char:EOLhyphen"/>day morning next.</p>
+            </div>
+            <div type="days_proceedings">
+               <pb n="75" facs="tcp:124478:40"/>
+               <head>
+                  <hi>Monday the ſecond day of March, Sir</hi> John Elliott <hi>made a Speech as followeth.</hi>
+               </head>
+               <sp>
+                  <p>God knowes that I now ſpeake with all duty to the King: It is true, the misfortunes we ſuffer are many. We know what diſcoveries have beene made; how Arminia<g ref="char:EOLhyphen"/>niſme creepes and undermines, and how Popery comes upon us: they maske not in ſtrange diſguiſes, but expoſe themſelves to the view of the world. In ſearch of theſe we have fixed our eyes, not ſimply on the Actors, the Je<g ref="char:EOLhyphen"/>ſuites and Prieſts, but on their Maſters; thoſe that are in authority: thence it is we ſuffer, the feare of them makes theſe interruptions.</p>
+                  <p>You have ſome Prelates that are their Abettors: That great Biſhop of <hi>Wincheſter,</hi> we know what he hath done to favour them: The feare extends to ſome others that contract a feare of being diſcovered; and they draw from thence this jealouſie: That is, the Lord Treaſurer, a man in whoſe perſon all evill is contracted; I finde him Acting and Building on thoſe grounds, laid by his Maſter the great Duke; and his ſpirit is moving for this interruption: and for this they breake Parliaments, leaſt Parliaments ſhould breake them. I finde him the head of all that great party; the Prieſts and all the Jeſuites derive from him their ſhelter and protection: He diſmayes our Merchants, and hee it is that invites Strangers to come in to drive Trade, to ſerve their owne ends.</p>
+               </sp>
+               <p>Thus was put to Queſtion, but Maſter Speaker refu<g ref="char:EOLhyphen"/>ſed to doe it; and ſaid he was otherwiſe commanded by the King.</p>
+               <p>Whereupon Maſter <hi>Selden</hi> ſpeake as followeth.</p>
+               <sp>
+                  <p>You Maſter Speaker ſay, you dare not put the Queſtion which we commanded you; if you will not put it, wee muſt ſit ſtill; and ſo wee ſhall never be able to doe any thing: they that come after you may ſay, they have the
+<pb n="76" facs="tcp:124478:41"/>Kings command not to doe it. Wee ſit here by the com<g ref="char:EOLhyphen"/>mand of the King, under the great Seale; and for you, you are by his Majeſty ſitting in his Royall Chaire, before both Houſes appointed our Speaker, and you now refuſe to be our Speaker.</p>
+               </sp>
+               <floatingText xml:lang="eng" type="protest">
+                  <body>
+                     <head>The Proteſtation of the Commons in Parliament.</head>
+                     <p n="1">1.
+<note place="margin">Elliot. Hollis.</note> Whoſoever ſhall bring in an Innovation in Religi<g ref="char:EOLhyphen"/>on, or by favour or countenance ſeeke to extend or intro<g ref="char:EOLhyphen"/>duce Popery, or Arminianiſme, or other opinions diſ<g ref="char:EOLhyphen"/>agreeing from the true and orthodoxe Church, ſhall bee reputed a capitall enemy to this Kingdome and Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+                     <p n="2">2. Whoſoever ſhall counſell or adviſe the taking and levying of the Subſidies of Tonnage and Poundage, not being granted by Parliament; or ſhall be an Actor or In<g ref="char:EOLhyphen"/>ſtrument therein, ſhall likewiſe be reputed an Innovator in the government, and a capitall enemy to this King<g ref="char:EOLhyphen"/>dome and Common-wealth.</p>
+                     <p n="3">3. If any Merchant or perſon whatſoever, ſhall volun<g ref="char:EOLhyphen"/>tarily yeeld or pay the ſaid Subſidies of Tonnage and Poundage, not being granted by Parliament; he ſhall like<g ref="char:EOLhyphen"/>wiſe be reputed a betrayer of the liberties of <hi>England,</hi> and an enemy to the ſame.</p>
+                  </body>
+               </floatingText>
+               <p>Thereupon the Houſe was diſſolved by Proclamation.</p>
+               <floatingText xml:lang="eng" type="speech">
+                  <body>
+                     <head>
+                        <hi>The Kings Speech upon Theſday the tenth-day of March.</hi> 1628.</head>
+                     <opener>
+                        <salute>My Lords,</salute>
+                     </opener>
+                     <p>I never came here upon ſo unpleaſing an occaſion, be<g ref="char:EOLhyphen"/>ing for the diſſolving of a Parliament; therefore many may wonder why I did not chuſe to doe this by Commiſ<g ref="char:EOLhyphen"/>ſion: It being the generall Maxime of Kings, to lay harſh commands by their Miniſters, themſelves onely execu<g ref="char:EOLhyphen"/>ting
+<pb n="77" facs="tcp:124478:41"/>pleaſing things: but conſidering that Juſtice is aſwell in commending and rewarding of vertue, as in puniſhing of vice; I thought it neceſſary to come here to day, to de<g ref="char:EOLhyphen"/>clare to you my Lords, and all the world, that it was only the diſobedient carriage of the Lower Houſe that hath cauſed this diſſolution at this time; and that you may Lords are ſo farre from being cauſers thereof, that I have as much comfort in your obedience, and by all your carriage towards me, as I have cauſe to diſtaſte their proceedings: Yet that I may bee clearely underſtood, I muſt needs ſay that they doe miſtake me wonderouſly, that thinke that I lay this fault equally upon all the Lower Houſe; for I know there are many there, as dutifull loyall ſubjects, as any are in the world; for I know it was onely ſome Vi<g ref="char:EOLhyphen"/>pers amongſt them that did caſt this miſte of diſobedience before their eyes; although there were ſome there that could not be infected with this contagion, inſomuch that ſome by their ſpeaking (which indeed was the generall fault) on the laſt day of the Parliament, did ſhew their obedience.</p>
+                     <p>To conclude, my Lords, all thoſe ill affected perſons muſt looke to have their reward: ſo you that are here of the Higher Houſe, may juſtly claime from me that pro<g ref="char:EOLhyphen"/>tection and favour, that a good King beares to his faithfull and loyall Nobilitie.</p>
+                     <p>Now my Lord execute that I command you.</p>
+                  </body>
+               </floatingText>
+               <sp>
+                  <speaker>The Lord Keeper.</speaker>
+                  <p>My Lords and Gentlemen of the Houſe of Commons, His Majeſtie doth diſſolve this Parliament.</p>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
